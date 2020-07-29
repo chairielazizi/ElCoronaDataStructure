@@ -1,0 +1,6782 @@
+
+ID: 1001 gender: M age: 11 job: Pupil infection rate: 0.16992000000000002
+Restaurant 4--> 
+School 2--> 
+Home 6--> 
+
+Restaurant 7--> 
+School 4--> 
+Home 12--> 
+
+School 6--> 
+Bank 4--> 
+Home 5--> 
+
+Supermarket 3--> 
+School 2--> 
+Home 6--> 
+
+School 6--> 
+Supermarket 4--> 
+Home 14--> 
+
+School 3--> 
+Mall 2--> 
+Home 5--> 
+
+Airport 7--> 
+School 4--> 
+Home 2--> 
+
+School 5--> 
+Airport 4--> 
+Home 9--> 
+
+Airport 2--> 
+School 4--> 
+Home 7--> 
+
+Bank 1--> 
+School 6--> 
+Home 5--> 
+
+School 2--> 
+Mall 6--> 
+Home 4--> 
+
+Airport 8--> 
+School 4--> 
+Home 2--> 
+
+Hospital--> 
+School 4--> 
+Home 2--> 
+
+School 4--> 
+Supermarket 4--> 
+Home 7--> 
+
+ID: 1002 gender: M age: 15 job: Student infection rate: 0.22399999999999998
+Supermarket 5--> 
+School 4--> 
+Home 10--> 
+
+Gym 2--> 
+School 1--> 
+Home 12--> 
+
+Park--> 
+School 5--> 
+Home 6--> 
+
+School 5--> 
+Hospital--> 
+Home 7--> 
+
+School 2--> 
+Park--> 
+Home 2--> 
+
+School 2--> 
+Bank 2--> 
+Home 8--> 
+
+School 6--> 
+Park--> 
+Home 10--> 
+
+Supermarket 6--> 
+School 1--> 
+Home 1--> 
+
+Park--> 
+School 1--> 
+Home 3--> 
+
+School 2--> 
+Park--> 
+Home 14--> 
+
+Airport 5--> 
+School 3--> 
+Home 8--> 
+
+School 6--> 
+Restaurant 1--> 
+Home 11--> 
+
+Hospital--> 
+School 4--> 
+Home 10--> 
+
+GovtOffice 6--> 
+School 5--> 
+Home 1--> 
+
+ID: 1003 gender: F age: 2 job: Kid infection rate: 0.10449999999999998
+Restaurant 6--> 
+Hospital--> 
+Park--> 
+
+Restaurant 7--> 
+Home 9--> 
+Park--> 
+
+School 5--> 
+Hospital--> 
+Hospital--> 
+
+Restaurant 3--> 
+Hospital--> 
+Hospital--> 
+
+Hospital--> 
+Home 3--> 
+School 1--> 
+
+Home 3--> 
+Restaurant 3--> 
+School 1--> 
+
+Hospital--> 
+Home 13--> 
+Hospital--> 
+
+School 1--> 
+Park--> 
+Restaurant 6--> 
+
+Restaurant 2--> 
+Park--> 
+Home 3--> 
+
+Park--> 
+School 4--> 
+Hospital--> 
+
+Hospital--> 
+Home 12--> 
+Hospital--> 
+
+Park--> 
+Home 9--> 
+Hospital--> 
+
+Home 9--> 
+School 6--> 
+Park--> 
+
+Restaurant 3--> 
+School 3--> 
+Restaurant 5--> 
+
+ID: 1004 gender: F age: 1 job: Kid infection rate: 0.10601999999999998
+Hospital--> 
+School 3--> 
+Park--> 
+
+Home 7--> 
+School 6--> 
+Restaurant 7--> 
+
+Home 12--> 
+Home 10--> 
+Hospital--> 
+
+Hospital--> 
+Home 10--> 
+Home 7--> 
+
+Park--> 
+Park--> 
+School 4--> 
+
+Restaurant 3--> 
+Restaurant 1--> 
+Restaurant 2--> 
+
+Home 5--> 
+Restaurant 6--> 
+Home 2--> 
+
+Park--> 
+Restaurant 7--> 
+Hospital--> 
+
+Home 9--> 
+Home 4--> 
+School 4--> 
+
+Restaurant 7--> 
+Restaurant 7--> 
+Home 4--> 
+
+Park--> 
+Home 13--> 
+Hospital--> 
+
+Restaurant 2--> 
+Restaurant 7--> 
+Home 12--> 
+
+Park--> 
+Park--> 
+Hospital--> 
+
+Restaurant 5--> 
+Hospital--> 
+School 2--> 
+
+ID: 1005 gender: M age: 7 job: Pupil infection rate: 0.1652
+School 5--> 
+Office 8--> 
+Home 14--> 
+
+School 2--> 
+Bank 4--> 
+Home 4--> 
+
+School 2--> 
+Bank 3--> 
+Home 9--> 
+
+School 4--> 
+Airport 5--> 
+Home 1--> 
+
+School 4--> 
+Supermarket 2--> 
+Home 13--> 
+
+School 2--> 
+Airport 2--> 
+Home 11--> 
+
+Restaurant 7--> 
+School 6--> 
+Home 4--> 
+
+Park--> 
+School 1--> 
+Home 4--> 
+
+School 5--> 
+Airport 6--> 
+Home 11--> 
+
+Airport 7--> 
+School 6--> 
+Home 1--> 
+
+Hospital--> 
+School 6--> 
+Home 4--> 
+
+School 2--> 
+Park--> 
+Home 10--> 
+
+Bank 2--> 
+School 5--> 
+Home 8--> 
+
+School 1--> 
+Park--> 
+Home 3--> 
+
+ID: 1006 gender: F age: 11 job: Pupil infection rate: 0.15776
+School 5--> 
+Mall 4--> 
+Home 13--> 
+
+School 6--> 
+Restaurant 4--> 
+Home 11--> 
+
+Park--> 
+School 5--> 
+Home 2--> 
+
+Park--> 
+School 4--> 
+Home 3--> 
+
+Park--> 
+School 2--> 
+Home 8--> 
+
+Hospital--> 
+School 4--> 
+Home 6--> 
+
+Office 5--> 
+School 2--> 
+Home 1--> 
+
+School 1--> 
+Restaurant 1--> 
+Home 10--> 
+
+Mall 6--> 
+School 3--> 
+Home 2--> 
+
+Mall 6--> 
+School 3--> 
+Home 1--> 
+
+School 3--> 
+Restaurant 1--> 
+Home 11--> 
+
+School 1--> 
+Airport 3--> 
+Home 10--> 
+
+School 4--> 
+Office 3--> 
+Home 7--> 
+
+Bank 1--> 
+School 4--> 
+Home 3--> 
+
+ID: 1007 gender: M age: 17 job: Student infection rate: 0.20607999999999996
+School 4--> 
+Park--> 
+Home 4--> 
+
+School 6--> 
+Bank 2--> 
+Home 12--> 
+
+School 5--> 
+Park--> 
+Home 7--> 
+
+Hospital--> 
+School 1--> 
+Home 5--> 
+
+Mall 4--> 
+School 6--> 
+Home 1--> 
+
+School 3--> 
+Hospital--> 
+Home 11--> 
+
+School 1--> 
+Office 3--> 
+Home 11--> 
+
+Park--> 
+School 6--> 
+Home 3--> 
+
+School 1--> 
+Hospital--> 
+Home 11--> 
+
+Gym 2--> 
+School 2--> 
+Home 4--> 
+
+Supermarket 4--> 
+School 5--> 
+Home 10--> 
+
+Park--> 
+School 4--> 
+Home 12--> 
+
+School 5--> 
+Airport 6--> 
+Home 6--> 
+
+Park--> 
+School 3--> 
+Home 7--> 
+
+ID: 1008 gender: F age: 3 job: Kid infection rate: 0.10889999999999998
+Home 7--> 
+Hospital--> 
+Hospital--> 
+
+Hospital--> 
+Restaurant 4--> 
+Home 12--> 
+
+Home 13--> 
+Home 7--> 
+School 2--> 
+
+Home 5--> 
+Hospital--> 
+School 3--> 
+
+Hospital--> 
+Restaurant 2--> 
+Hospital--> 
+
+Hospital--> 
+Restaurant 7--> 
+Hospital--> 
+
+Hospital--> 
+Restaurant 5--> 
+Park--> 
+
+Hospital--> 
+Park--> 
+Restaurant 1--> 
+
+Hospital--> 
+Hospital--> 
+School 3--> 
+
+Restaurant 2--> 
+Park--> 
+School 4--> 
+
+Park--> 
+Home 3--> 
+School 3--> 
+
+School 5--> 
+School 1--> 
+Hospital--> 
+
+Hospital--> 
+Hospital--> 
+Home 13--> 
+
+Park--> 
+Restaurant 6--> 
+Restaurant 3--> 
+
+ID: 1009 gender: F age: 3 job: Kid infection rate: 0.10449999999999998
+Restaurant 3--> 
+Restaurant 1--> 
+Hospital--> 
+
+Restaurant 1--> 
+School 5--> 
+Park--> 
+
+Hospital--> 
+Hospital--> 
+Park--> 
+
+Park--> 
+Park--> 
+Park--> 
+
+School 6--> 
+Park--> 
+Restaurant 5--> 
+
+Park--> 
+Restaurant 3--> 
+Home 8--> 
+
+Hospital--> 
+Restaurant 3--> 
+Park--> 
+
+Restaurant 1--> 
+Park--> 
+Park--> 
+
+Restaurant 5--> 
+Home 1--> 
+Park--> 
+
+Park--> 
+Hospital--> 
+Restaurant 7--> 
+
+Hospital--> 
+Hospital--> 
+School 6--> 
+
+Home 1--> 
+Home 7--> 
+School 5--> 
+
+Home 9--> 
+School 3--> 
+Hospital--> 
+
+Home 7--> 
+Home 14--> 
+Hospital--> 
+
+ID: 1010 gender: M age: 0 job: Kid infection rate: 0.11109999999999999
+School 2--> 
+School 1--> 
+School 3--> 
+
+Hospital--> 
+School 2--> 
+Hospital--> 
+
+Restaurant 5--> 
+Restaurant 3--> 
+Hospital--> 
+
+Park--> 
+Hospital--> 
+Park--> 
+
+Home 9--> 
+Restaurant 4--> 
+Hospital--> 
+
+Hospital--> 
+Home 7--> 
+Restaurant 5--> 
+
+Home 5--> 
+Hospital--> 
+Hospital--> 
+
+Home 11--> 
+Home 9--> 
+Hospital--> 
+
+Park--> 
+Home 9--> 
+School 2--> 
+
+Restaurant 4--> 
+School 6--> 
+Restaurant 7--> 
+
+Home 14--> 
+Hospital--> 
+Restaurant 5--> 
+
+Home 8--> 
+Home 7--> 
+Restaurant 3--> 
+
+Home 3--> 
+Hospital--> 
+Home 11--> 
+
+Home 14--> 
+School 2--> 
+Hospital--> 
+
+ID: 1011 gender: M age: 12 job: Student infection rate: 0.22219999999999998
+Mall 1--> 
+School 6--> 
+Home 1--> 
+
+Mall 1--> 
+School 4--> 
+Home 12--> 
+
+GovtOffice 5--> 
+School 6--> 
+Home 13--> 
+
+GovtOffice 3--> 
+School 6--> 
+Home 4--> 
+
+Supermarket 6--> 
+School 2--> 
+Home 9--> 
+
+School 1--> 
+Restaurant 5--> 
+Home 10--> 
+
+Office 5--> 
+School 1--> 
+Home 11--> 
+
+GovtOffice 3--> 
+School 1--> 
+Home 10--> 
+
+Airport 3--> 
+School 4--> 
+Home 11--> 
+
+Supermarket 6--> 
+School 3--> 
+Home 14--> 
+
+School 4--> 
+Bank 1--> 
+Home 5--> 
+
+Bank 2--> 
+School 3--> 
+Home 11--> 
+
+Supermarket 2--> 
+School 3--> 
+Home 13--> 
+
+Bank 1--> 
+School 3--> 
+Home 14--> 
+
+ID: 1012 gender: M age: 7 job: Pupil infection rate: 0.16756000000000001
+Office 10--> 
+School 1--> 
+Home 3--> 
+
+School 2--> 
+Hospital--> 
+Home 7--> 
+
+School 5--> 
+Hospital--> 
+Home 2--> 
+
+Airport 5--> 
+School 6--> 
+Home 5--> 
+
+School 6--> 
+Bank 4--> 
+Home 4--> 
+
+School 5--> 
+Airport 5--> 
+Home 13--> 
+
+School 1--> 
+Bank 1--> 
+Home 8--> 
+
+School 4--> 
+Park--> 
+Home 9--> 
+
+Mall 2--> 
+School 4--> 
+Home 4--> 
+
+Supermarket 4--> 
+School 3--> 
+Home 4--> 
+
+Supermarket 6--> 
+School 5--> 
+Home 4--> 
+
+Restaurant 7--> 
+School 4--> 
+Home 13--> 
+
+School 6--> 
+Bank 3--> 
+Home 13--> 
+
+Mall 1--> 
+School 6--> 
+Home 7--> 
+
+ID: 1013 gender: F age: 11 job: Pupil infection rate: 0.15960000000000002
+School 1--> 
+Office 6--> 
+Home 13--> 
+
+School 4--> 
+Airport 3--> 
+Home 14--> 
+
+School 5--> 
+Mall 4--> 
+Home 7--> 
+
+Mall 3--> 
+School 5--> 
+Home 13--> 
+
+School 5--> 
+Mall 1--> 
+Home 14--> 
+
+Bank 2--> 
+School 6--> 
+Home 13--> 
+
+School 2--> 
+Airport 4--> 
+Home 4--> 
+
+School 6--> 
+Supermarket 2--> 
+Home 11--> 
+
+Hospital--> 
+School 4--> 
+Home 10--> 
+
+Office 11--> 
+School 6--> 
+Home 7--> 
+
+Restaurant 7--> 
+School 4--> 
+Home 12--> 
+
+School 4--> 
+Restaurant 4--> 
+Home 13--> 
+
+School 5--> 
+Restaurant 2--> 
+Home 4--> 
+
+Mall 4--> 
+School 6--> 
+Home 12--> 
+
+ID: 1014 gender: M age: 4 job: Kid infection rate: 0.11715999999999997
+Hospital--> 
+Hospital--> 
+Park--> 
+
+Restaurant 4--> 
+School 1--> 
+Restaurant 4--> 
+
+Restaurant 7--> 
+School 6--> 
+Hospital--> 
+
+School 4--> 
+School 3--> 
+School 1--> 
+
+Park--> 
+Home 14--> 
+Home 2--> 
+
+Restaurant 7--> 
+Restaurant 2--> 
+Home 13--> 
+
+Restaurant 3--> 
+Hospital--> 
+Restaurant 6--> 
+
+Home 11--> 
+Restaurant 1--> 
+Home 13--> 
+
+Restaurant 6--> 
+School 6--> 
+Hospital--> 
+
+School 1--> 
+Hospital--> 
+Restaurant 7--> 
+
+Park--> 
+School 3--> 
+Park--> 
+
+Restaurant 4--> 
+Park--> 
+Hospital--> 
+
+School 5--> 
+School 5--> 
+Park--> 
+
+Hospital--> 
+Park--> 
+Park--> 
+
+ID: 1015 gender: F age: 14 job: Student infection rate: 0.22503999999999993
+Hospital--> 
+School 3--> 
+Home 13--> 
+
+Restaurant 7--> 
+School 5--> 
+Home 10--> 
+
+Restaurant 7--> 
+School 6--> 
+Home 11--> 
+
+School 4--> 
+Bank 2--> 
+Home 14--> 
+
+School 1--> 
+Office 11--> 
+Home 7--> 
+
+Gym 2--> 
+School 4--> 
+Home 14--> 
+
+School 5--> 
+Police Station--> 
+Home 1--> 
+
+Park--> 
+School 3--> 
+Home 2--> 
+
+School 6--> 
+Police Station--> 
+Home 4--> 
+
+School 3--> 
+Police Station--> 
+Home 4--> 
+
+Airport 4--> 
+School 3--> 
+Home 8--> 
+
+School 6--> 
+Hospital--> 
+Home 4--> 
+
+School 6--> 
+Park--> 
+Home 4--> 
+
+School 6--> 
+Hospital--> 
+Home 7--> 
+
+ID: 1016 gender: M age: 0 job: Kid infection rate: 0.10601999999999998
+Hospital--> 
+Home 9--> 
+School 3--> 
+
+School 3--> 
+Hospital--> 
+Hospital--> 
+
+Home 9--> 
+Restaurant 3--> 
+Park--> 
+
+Restaurant 5--> 
+Hospital--> 
+Park--> 
+
+School 3--> 
+Hospital--> 
+Park--> 
+
+School 5--> 
+School 3--> 
+Home 8--> 
+
+Restaurant 4--> 
+School 6--> 
+Home 6--> 
+
+Hospital--> 
+Home 14--> 
+Park--> 
+
+Park--> 
+School 4--> 
+Hospital--> 
+
+Restaurant 5--> 
+Restaurant 7--> 
+Restaurant 3--> 
+
+Restaurant 4--> 
+Hospital--> 
+Home 8--> 
+
+School 3--> 
+Home 14--> 
+Hospital--> 
+
+Hospital--> 
+Hospital--> 
+School 4--> 
+
+Restaurant 4--> 
+Home 4--> 
+School 3--> 
+
+ID: 1017 gender: F age: 6 job: Pupil infection rate: 0.1496
+School 5--> 
+Airport 7--> 
+Home 6--> 
+
+School 4--> 
+Office 7--> 
+Home 7--> 
+
+School 6--> 
+Bank 4--> 
+Home 6--> 
+
+Restaurant 6--> 
+School 4--> 
+Home 3--> 
+
+Mall 4--> 
+School 6--> 
+Home 7--> 
+
+School 3--> 
+Airport 6--> 
+Home 12--> 
+
+School 5--> 
+Airport 7--> 
+Home 8--> 
+
+Bank 2--> 
+School 2--> 
+Home 10--> 
+
+School 2--> 
+Hospital--> 
+Home 6--> 
+
+Park--> 
+School 3--> 
+Home 2--> 
+
+Park--> 
+School 2--> 
+Home 5--> 
+
+School 3--> 
+Park--> 
+Home 11--> 
+
+Airport 7--> 
+School 6--> 
+Home 10--> 
+
+School 5--> 
+Restaurant 4--> 
+Home 12--> 
+
+ID: 1018 gender: F age: 16 job: Student infection rate: 0.21339999999999995
+School 5--> 
+GovtOffice 4--> 
+Home 3--> 
+
+School 6--> 
+Hospital--> 
+Home 1--> 
+
+Airport 5--> 
+School 5--> 
+Home 3--> 
+
+School 2--> 
+Park--> 
+Home 10--> 
+
+School 6--> 
+Hospital--> 
+Home 5--> 
+
+School 3--> 
+Supermarket 2--> 
+Home 10--> 
+
+Park--> 
+School 5--> 
+Home 7--> 
+
+School 2--> 
+Supermarket 7--> 
+Home 3--> 
+
+School 3--> 
+Hospital--> 
+Home 12--> 
+
+School 4--> 
+Office 8--> 
+Home 5--> 
+
+Bank 1--> 
+School 5--> 
+Home 10--> 
+
+GovtOffice 3--> 
+School 6--> 
+Home 14--> 
+
+School 4--> 
+Bank 1--> 
+Home 2--> 
+
+School 5--> 
+Supermarket 6--> 
+Home 10--> 
+
+ID: 1019 gender: M age: 4 job: Kid infection rate: 0.10889999999999998
+School 3--> 
+Hospital--> 
+Restaurant 2--> 
+
+Home 5--> 
+Restaurant 1--> 
+Home 4--> 
+
+Restaurant 6--> 
+Hospital--> 
+Home 2--> 
+
+Hospital--> 
+Park--> 
+Hospital--> 
+
+Park--> 
+Restaurant 4--> 
+Park--> 
+
+Restaurant 1--> 
+Park--> 
+Home 8--> 
+
+Restaurant 1--> 
+Hospital--> 
+School 1--> 
+
+Home 13--> 
+Park--> 
+Home 9--> 
+
+Hospital--> 
+School 2--> 
+Home 7--> 
+
+Restaurant 6--> 
+Restaurant 1--> 
+Restaurant 7--> 
+
+Hospital--> 
+School 6--> 
+Hospital--> 
+
+Hospital--> 
+Park--> 
+Home 2--> 
+
+Restaurant 7--> 
+Hospital--> 
+Home 12--> 
+
+Park--> 
+Hospital--> 
+Park--> 
+
+ID: 1020 gender: M age: 11 job: Pupil infection rate: 0.15776
+Airport 4--> 
+School 3--> 
+Home 8--> 
+
+Restaurant 5--> 
+School 3--> 
+Home 5--> 
+
+Supermarket 1--> 
+School 4--> 
+Home 2--> 
+
+School 1--> 
+Restaurant 6--> 
+Home 2--> 
+
+Restaurant 3--> 
+School 2--> 
+Home 7--> 
+
+Supermarket 4--> 
+School 6--> 
+Home 12--> 
+
+School 1--> 
+Bank 4--> 
+Home 1--> 
+
+School 6--> 
+Supermarket 1--> 
+Home 5--> 
+
+Park--> 
+School 2--> 
+Home 12--> 
+
+School 2--> 
+Office 10--> 
+Home 11--> 
+
+School 6--> 
+Hospital--> 
+Home 5--> 
+
+Restaurant 3--> 
+School 1--> 
+Home 9--> 
+
+Office 4--> 
+School 4--> 
+Home 5--> 
+
+School 5--> 
+Restaurant 7--> 
+Home 14--> 
+
+ID: 1021 gender: F age: 14 job: Student infection rate: 0.23127999999999993
+Park--> 
+School 1--> 
+Home 12--> 
+
+School 6--> 
+Restaurant 6--> 
+Home 12--> 
+
+School 2--> 
+Office 5--> 
+Home 2--> 
+
+School 6--> 
+Police Station--> 
+Home 6--> 
+
+School 1--> 
+Mall 4--> 
+Home 13--> 
+
+School 6--> 
+Hospital--> 
+Home 7--> 
+
+Supermarket 3--> 
+School 1--> 
+Home 1--> 
+
+Gym 1--> 
+School 3--> 
+Home 4--> 
+
+Mall 6--> 
+School 6--> 
+Home 8--> 
+
+Airport 8--> 
+School 4--> 
+Home 9--> 
+
+Mall 5--> 
+School 2--> 
+Home 11--> 
+
+Gym 4--> 
+School 2--> 
+Home 11--> 
+
+School 2--> 
+Office 6--> 
+Home 2--> 
+
+School 3--> 
+Park--> 
+Home 6--> 
+
+ID: 1022 gender: M age: 6 job: Pupil infection rate: 0.15400000000000003
+Supermarket 3--> 
+School 5--> 
+Home 14--> 
+
+School 5--> 
+Park--> 
+Home 1--> 
+
+School 5--> 
+Bank 3--> 
+Home 3--> 
+
+Hospital--> 
+School 5--> 
+Home 12--> 
+
+School 1--> 
+Airport 6--> 
+Home 6--> 
+
+School 2--> 
+Supermarket 5--> 
+Home 2--> 
+
+Supermarket 4--> 
+School 2--> 
+Home 13--> 
+
+School 5--> 
+Office 7--> 
+Home 7--> 
+
+Restaurant 6--> 
+School 3--> 
+Home 7--> 
+
+Restaurant 2--> 
+School 6--> 
+Home 10--> 
+
+School 3--> 
+Mall 5--> 
+Home 7--> 
+
+Park--> 
+School 1--> 
+Home 11--> 
+
+Mall 3--> 
+School 1--> 
+Home 6--> 
+
+Office 10--> 
+School 6--> 
+Home 7--> 
+
+ID: 1023 gender: M age: 11 job: Pupil infection rate: 0.15960000000000002
+Park--> 
+School 5--> 
+Home 2--> 
+
+Airport 5--> 
+School 3--> 
+Home 14--> 
+
+Mall 3--> 
+School 3--> 
+Home 2--> 
+
+School 5--> 
+Supermarket 3--> 
+Home 8--> 
+
+School 6--> 
+Airport 2--> 
+Home 7--> 
+
+School 6--> 
+Hospital--> 
+Home 7--> 
+
+Hospital--> 
+School 4--> 
+Home 5--> 
+
+Airport 4--> 
+School 1--> 
+Home 6--> 
+
+School 5--> 
+Office 9--> 
+Home 2--> 
+
+Restaurant 3--> 
+School 3--> 
+Home 1--> 
+
+School 6--> 
+Mall 3--> 
+Home 2--> 
+
+School 6--> 
+Bank 3--> 
+Home 4--> 
+
+Park--> 
+School 6--> 
+Home 2--> 
+
+School 3--> 
+Supermarket 3--> 
+Home 9--> 
+
+ID: 1024 gender: M age: 1 job: Kid infection rate: 0.10669999999999998
+School 1--> 
+Hospital--> 
+Home 7--> 
+
+Restaurant 7--> 
+Hospital--> 
+Hospital--> 
+
+Restaurant 6--> 
+Home 13--> 
+Park--> 
+
+Hospital--> 
+Park--> 
+Park--> 
+
+Restaurant 6--> 
+School 5--> 
+Restaurant 3--> 
+
+Home 9--> 
+Hospital--> 
+Hospital--> 
+
+Park--> 
+Restaurant 7--> 
+Home 2--> 
+
+School 4--> 
+Park--> 
+School 4--> 
+
+Restaurant 3--> 
+Home 12--> 
+Park--> 
+
+Park--> 
+Home 6--> 
+Park--> 
+
+Restaurant 2--> 
+Park--> 
+Restaurant 4--> 
+
+Park--> 
+Home 12--> 
+Restaurant 5--> 
+
+Hospital--> 
+Hospital--> 
+Park--> 
+
+School 2--> 
+School 4--> 
+Home 7--> 
+
+ID: 1025 gender: F age: 8 job: Pupil infection rate: 0.16472
+School 4--> 
+Mall 1--> 
+Home 11--> 
+
+Supermarket 7--> 
+School 1--> 
+Home 8--> 
+
+Hospital--> 
+School 4--> 
+Home 5--> 
+
+Bank 2--> 
+School 1--> 
+Home 13--> 
+
+Office 6--> 
+School 2--> 
+Home 11--> 
+
+School 1--> 
+Park--> 
+Home 9--> 
+
+Bank 1--> 
+School 2--> 
+Home 1--> 
+
+Airport 1--> 
+School 3--> 
+Home 6--> 
+
+Restaurant 5--> 
+School 5--> 
+Home 8--> 
+
+School 6--> 
+Restaurant 1--> 
+Home 5--> 
+
+School 5--> 
+Restaurant 4--> 
+Home 12--> 
+
+Mall 3--> 
+School 1--> 
+Home 7--> 
+
+School 6--> 
+Mall 1--> 
+Home 1--> 
+
+Mall 4--> 
+School 3--> 
+Home 7--> 
+
+ID: 1026 gender: F age: 13 job: Student infection rate: 0.23599999999999993
+Hospital--> 
+School 2--> 
+Home 10--> 
+
+Park--> 
+School 5--> 
+Home 8--> 
+
+Airport 8--> 
+School 2--> 
+Home 11--> 
+
+GovtOffice 1--> 
+School 2--> 
+Home 7--> 
+
+School 2--> 
+Bank 4--> 
+Home 7--> 
+
+School 4--> 
+Supermarket 7--> 
+Home 12--> 
+
+School 5--> 
+Airport 2--> 
+Home 5--> 
+
+School 6--> 
+Mall 1--> 
+Home 3--> 
+
+School 2--> 
+Police Station--> 
+Home 11--> 
+
+School 6--> 
+Hospital--> 
+Home 8--> 
+
+School 6--> 
+Supermarket 6--> 
+Home 4--> 
+
+School 6--> 
+Bank 3--> 
+Home 8--> 
+
+School 4--> 
+Police Station--> 
+Home 13--> 
+
+School 6--> 
+Bank 4--> 
+Home 9--> 
+
+ID: 1027 gender: M age: 17 job: Student infection rate: 0.22655999999999993
+Office 9--> 
+School 2--> 
+Home 10--> 
+
+Airport 1--> 
+School 4--> 
+Home 13--> 
+
+School 3--> 
+GovtOffice 4--> 
+Home 2--> 
+
+Office 8--> 
+School 1--> 
+Home 13--> 
+
+School 6--> 
+Supermarket 2--> 
+Home 10--> 
+
+School 6--> 
+Park--> 
+Home 4--> 
+
+School 1--> 
+Restaurant 5--> 
+Home 14--> 
+
+School 2--> 
+Hospital--> 
+Home 2--> 
+
+Park--> 
+School 4--> 
+Home 7--> 
+
+School 4--> 
+Police Station--> 
+Home 1--> 
+
+Park--> 
+School 3--> 
+Home 9--> 
+
+Restaurant 4--> 
+School 4--> 
+Home 13--> 
+
+School 4--> 
+GovtOffice 4--> 
+Home 4--> 
+
+School 3--> 
+Restaurant 7--> 
+Home 9--> 
+
+ID: 1028 gender: F age: 8 job: Pupil infection rate: 0.16472
+School 5--> 
+Park--> 
+Home 10--> 
+
+School 5--> 
+Airport 2--> 
+Home 2--> 
+
+Airport 8--> 
+School 1--> 
+Home 9--> 
+
+Office 4--> 
+School 1--> 
+Home 5--> 
+
+School 1--> 
+Supermarket 4--> 
+Home 6--> 
+
+Park--> 
+School 1--> 
+Home 5--> 
+
+School 3--> 
+Bank 1--> 
+Home 5--> 
+
+Supermarket 4--> 
+School 2--> 
+Home 5--> 
+
+Airport 5--> 
+School 4--> 
+Home 5--> 
+
+School 3--> 
+Supermarket 3--> 
+Home 12--> 
+
+School 6--> 
+Airport 5--> 
+Home 14--> 
+
+Office 9--> 
+School 2--> 
+Home 4--> 
+
+Airport 2--> 
+School 2--> 
+Home 8--> 
+
+Bank 2--> 
+School 3--> 
+Home 5--> 
+
+ID: 1029 gender: M age: 8 job: Pupil infection rate: 0.16992000000000002
+School 5--> 
+Mall 3--> 
+Home 10--> 
+
+School 6--> 
+Restaurant 3--> 
+Home 12--> 
+
+Bank 2--> 
+School 3--> 
+Home 8--> 
+
+Restaurant 7--> 
+School 1--> 
+Home 9--> 
+
+Hospital--> 
+School 3--> 
+Home 9--> 
+
+Supermarket 4--> 
+School 3--> 
+Home 10--> 
+
+Park--> 
+School 6--> 
+Home 14--> 
+
+Bank 2--> 
+School 1--> 
+Home 7--> 
+
+Supermarket 3--> 
+School 6--> 
+Home 10--> 
+
+Bank 4--> 
+School 5--> 
+Home 6--> 
+
+School 5--> 
+Park--> 
+Home 11--> 
+
+Mall 1--> 
+School 1--> 
+Home 2--> 
+
+Supermarket 7--> 
+School 6--> 
+Home 6--> 
+
+Park--> 
+School 5--> 
+Home 1--> 
+
+ID: 1030 gender: M age: 7 job: Pupil infection rate: 0.15232000000000004
+School 6--> 
+Hospital--> 
+Home 7--> 
+
+Airport 4--> 
+School 6--> 
+Home 13--> 
+
+School 6--> 
+Office 5--> 
+Home 9--> 
+
+School 1--> 
+Supermarket 7--> 
+Home 6--> 
+
+School 5--> 
+Restaurant 1--> 
+Home 11--> 
+
+School 6--> 
+Bank 3--> 
+Home 2--> 
+
+Hospital--> 
+School 4--> 
+Home 5--> 
+
+Supermarket 7--> 
+School 3--> 
+Home 12--> 
+
+Office 5--> 
+School 1--> 
+Home 2--> 
+
+Mall 1--> 
+School 2--> 
+Home 1--> 
+
+School 2--> 
+Supermarket 5--> 
+Home 1--> 
+
+Bank 3--> 
+School 2--> 
+Home 6--> 
+
+Hospital--> 
+School 4--> 
+Home 12--> 
+
+Restaurant 5--> 
+School 1--> 
+Home 4--> 
+
+ID: 1031 gender: M age: 9 job: Pupil infection rate: 0.1496
+School 3--> 
+Park--> 
+Home 13--> 
+
+Mall 1--> 
+School 2--> 
+Home 13--> 
+
+School 3--> 
+Bank 3--> 
+Home 9--> 
+
+Supermarket 2--> 
+School 6--> 
+Home 5--> 
+
+School 2--> 
+Mall 5--> 
+Home 1--> 
+
+School 4--> 
+Supermarket 4--> 
+Home 14--> 
+
+School 4--> 
+Hospital--> 
+Home 10--> 
+
+Airport 2--> 
+School 1--> 
+Home 5--> 
+
+School 5--> 
+Supermarket 2--> 
+Home 13--> 
+
+Restaurant 4--> 
+School 3--> 
+Home 4--> 
+
+Restaurant 7--> 
+School 5--> 
+Home 14--> 
+
+School 4--> 
+Park--> 
+Home 7--> 
+
+School 5--> 
+Park--> 
+Home 4--> 
+
+Park--> 
+School 4--> 
+Home 13--> 
+
+ID: 1032 gender: F age: 6 job: Pupil infection rate: 0.16128000000000003
+Supermarket 6--> 
+School 5--> 
+Home 3--> 
+
+Restaurant 3--> 
+School 2--> 
+Home 2--> 
+
+Mall 5--> 
+School 1--> 
+Home 8--> 
+
+Airport 3--> 
+School 5--> 
+Home 5--> 
+
+Airport 3--> 
+School 4--> 
+Home 4--> 
+
+Park--> 
+School 6--> 
+Home 5--> 
+
+Office 11--> 
+School 5--> 
+Home 13--> 
+
+Hospital--> 
+School 3--> 
+Home 11--> 
+
+Supermarket 1--> 
+School 3--> 
+Home 1--> 
+
+Hospital--> 
+School 1--> 
+Home 9--> 
+
+Office 11--> 
+School 1--> 
+Home 10--> 
+
+Office 5--> 
+School 4--> 
+Home 7--> 
+
+School 2--> 
+Restaurant 2--> 
+Home 14--> 
+
+School 3--> 
+Office 7--> 
+Home 9--> 
+
+ID: 1033 gender: M age: 1 job: Kid infection rate: 0.10863999999999999
+School 6--> 
+Restaurant 5--> 
+Restaurant 4--> 
+
+Park--> 
+School 1--> 
+School 4--> 
+
+Hospital--> 
+Restaurant 7--> 
+Restaurant 5--> 
+
+Hospital--> 
+Restaurant 1--> 
+Restaurant 2--> 
+
+School 6--> 
+Home 13--> 
+Hospital--> 
+
+Park--> 
+School 1--> 
+Home 3--> 
+
+Park--> 
+Restaurant 4--> 
+Home 9--> 
+
+Home 9--> 
+School 2--> 
+Restaurant 2--> 
+
+Restaurant 3--> 
+Park--> 
+Home 11--> 
+
+Park--> 
+Restaurant 7--> 
+Hospital--> 
+
+Restaurant 1--> 
+Restaurant 3--> 
+Park--> 
+
+Home 10--> 
+Park--> 
+Home 7--> 
+
+Home 6--> 
+Park--> 
+School 6--> 
+
+Restaurant 4--> 
+Restaurant 2--> 
+School 3--> 
+
+ID: 1034 gender: F age: 7 job: Pupil infection rate: 0.15840000000000004
+School 4--> 
+Restaurant 5--> 
+Home 14--> 
+
+Bank 3--> 
+School 1--> 
+Home 8--> 
+
+Airport 6--> 
+School 5--> 
+Home 9--> 
+
+Bank 3--> 
+School 4--> 
+Home 10--> 
+
+School 1--> 
+Supermarket 1--> 
+Home 12--> 
+
+School 5--> 
+Restaurant 5--> 
+Home 5--> 
+
+Bank 1--> 
+School 3--> 
+Home 5--> 
+
+School 3--> 
+Mall 4--> 
+Home 1--> 
+
+Hospital--> 
+School 1--> 
+Home 3--> 
+
+Office 2--> 
+School 4--> 
+Home 7--> 
+
+School 2--> 
+Mall 2--> 
+Home 3--> 
+
+Supermarket 3--> 
+School 3--> 
+Home 3--> 
+
+Restaurant 4--> 
+School 3--> 
+Home 13--> 
+
+Airport 1--> 
+School 6--> 
+Home 12--> 
+
+ID: 1035 gender: F age: 11 job: Pupil infection rate: 0.16704000000000002
+School 1--> 
+Airport 1--> 
+Home 8--> 
+
+School 3--> 
+Restaurant 3--> 
+Home 5--> 
+
+Hospital--> 
+School 5--> 
+Home 12--> 
+
+Hospital--> 
+School 4--> 
+Home 1--> 
+
+Airport 7--> 
+School 5--> 
+Home 9--> 
+
+Restaurant 5--> 
+School 3--> 
+Home 4--> 
+
+School 1--> 
+Office 9--> 
+Home 4--> 
+
+School 2--> 
+Bank 4--> 
+Home 3--> 
+
+Airport 5--> 
+School 2--> 
+Home 13--> 
+
+Restaurant 5--> 
+School 4--> 
+Home 10--> 
+
+Hospital--> 
+School 5--> 
+Home 2--> 
+
+Mall 1--> 
+School 4--> 
+Home 3--> 
+
+Supermarket 6--> 
+School 2--> 
+Home 5--> 
+
+School 4--> 
+Office 2--> 
+Home 9--> 
+
+ID: 1036 gender: M age: 7 job: Pupil infection rate: 0.1496
+Park--> 
+School 3--> 
+Home 12--> 
+
+Park--> 
+School 2--> 
+Home 2--> 
+
+School 5--> 
+Office 6--> 
+Home 1--> 
+
+Hospital--> 
+School 3--> 
+Home 2--> 
+
+School 6--> 
+Airport 1--> 
+Home 13--> 
+
+School 2--> 
+Supermarket 6--> 
+Home 13--> 
+
+Airport 7--> 
+School 6--> 
+Home 8--> 
+
+School 3--> 
+Restaurant 2--> 
+Home 8--> 
+
+Hospital--> 
+School 2--> 
+Home 4--> 
+
+School 2--> 
+Supermarket 2--> 
+Home 12--> 
+
+Mall 6--> 
+School 5--> 
+Home 12--> 
+
+School 3--> 
+Mall 6--> 
+Home 14--> 
+
+Office 10--> 
+School 6--> 
+Home 12--> 
+
+Hospital--> 
+School 1--> 
+Home 9--> 
+
+ID: 1037 gender: M age: 12 job: Student infection rate: 0.23199999999999993
+School 3--> 
+Hospital--> 
+Home 14--> 
+
+Mall 4--> 
+School 6--> 
+Home 8--> 
+
+School 1--> 
+Park--> 
+Home 9--> 
+
+Airport 1--> 
+School 5--> 
+Home 8--> 
+
+Bank 4--> 
+School 1--> 
+Home 4--> 
+
+School 4--> 
+Restaurant 3--> 
+Home 7--> 
+
+GovtOffice 3--> 
+School 3--> 
+Home 12--> 
+
+Office 10--> 
+School 5--> 
+Home 4--> 
+
+School 3--> 
+Airport 3--> 
+Home 4--> 
+
+GovtOffice 5--> 
+School 4--> 
+Home 13--> 
+
+School 4--> 
+Supermarket 7--> 
+Home 13--> 
+
+School 3--> 
+Mall 2--> 
+Home 12--> 
+
+School 6--> 
+Mall 1--> 
+Home 5--> 
+
+School 3--> 
+Bank 2--> 
+Home 13--> 
+
+ID: 1038 gender: F age: 8 job: Pupil infection rate: 0.16992000000000002
+School 6--> 
+Mall 5--> 
+Home 10--> 
+
+School 1--> 
+Hospital--> 
+Home 10--> 
+
+Airport 7--> 
+School 2--> 
+Home 9--> 
+
+School 1--> 
+Hospital--> 
+Home 3--> 
+
+School 4--> 
+Restaurant 1--> 
+Home 10--> 
+
+Hospital--> 
+School 4--> 
+Home 6--> 
+
+Airport 5--> 
+School 6--> 
+Home 8--> 
+
+Hospital--> 
+School 2--> 
+Home 9--> 
+
+School 6--> 
+Mall 4--> 
+Home 6--> 
+
+School 5--> 
+Supermarket 5--> 
+Home 12--> 
+
+School 4--> 
+Mall 4--> 
+Home 14--> 
+
+Hospital--> 
+School 1--> 
+Home 8--> 
+
+School 1--> 
+Bank 1--> 
+Home 12--> 
+
+Hospital--> 
+School 6--> 
+Home 6--> 
+
+ID: 1039 gender: M age: 8 job: Pupil infection rate: 0.15776
+School 1--> 
+Mall 4--> 
+Home 8--> 
+
+Office 9--> 
+School 1--> 
+Home 14--> 
+
+School 3--> 
+Office 1--> 
+Home 13--> 
+
+Office 4--> 
+School 3--> 
+Home 4--> 
+
+School 4--> 
+Bank 1--> 
+Home 9--> 
+
+Office 7--> 
+School 5--> 
+Home 3--> 
+
+Bank 1--> 
+School 1--> 
+Home 8--> 
+
+Bank 4--> 
+School 5--> 
+Home 10--> 
+
+School 3--> 
+Airport 8--> 
+Home 11--> 
+
+School 6--> 
+Hospital--> 
+Home 4--> 
+
+School 2--> 
+Supermarket 7--> 
+Home 8--> 
+
+Supermarket 6--> 
+School 1--> 
+Home 8--> 
+
+Mall 5--> 
+School 1--> 
+Home 6--> 
+
+Park--> 
+School 1--> 
+Home 6--> 
+
+ID: 1040 gender: F age: 9 job: Pupil infection rate: 0.15776
+School 2--> 
+Restaurant 2--> 
+Home 8--> 
+
+School 3--> 
+Supermarket 3--> 
+Home 10--> 
+
+Restaurant 5--> 
+School 1--> 
+Home 7--> 
+
+Hospital--> 
+School 6--> 
+Home 2--> 
+
+Bank 2--> 
+School 6--> 
+Home 6--> 
+
+Bank 4--> 
+School 5--> 
+Home 3--> 
+
+Office 4--> 
+School 4--> 
+Home 10--> 
+
+Supermarket 1--> 
+School 3--> 
+Home 9--> 
+
+Supermarket 6--> 
+School 2--> 
+Home 12--> 
+
+Office 3--> 
+School 6--> 
+Home 5--> 
+
+Office 11--> 
+School 5--> 
+Home 7--> 
+
+Hospital--> 
+School 5--> 
+Home 3--> 
+
+Office 8--> 
+School 2--> 
+Home 12--> 
+
+Airport 1--> 
+School 3--> 
+Home 7--> 
+
+ID: 1041 gender: M age: 8 job: Pupil infection rate: 0.1652
+School 5--> 
+Bank 1--> 
+Home 9--> 
+
+Restaurant 7--> 
+School 6--> 
+Home 4--> 
+
+Hospital--> 
+School 3--> 
+Home 1--> 
+
+Office 1--> 
+School 1--> 
+Home 5--> 
+
+Office 9--> 
+School 2--> 
+Home 8--> 
+
+School 6--> 
+Supermarket 1--> 
+Home 1--> 
+
+Bank 1--> 
+School 2--> 
+Home 8--> 
+
+Bank 3--> 
+School 6--> 
+Home 13--> 
+
+Hospital--> 
+School 3--> 
+Home 8--> 
+
+School 1--> 
+Restaurant 7--> 
+Home 2--> 
+
+School 6--> 
+Airport 3--> 
+Home 6--> 
+
+Restaurant 5--> 
+School 6--> 
+Home 12--> 
+
+Hospital--> 
+School 1--> 
+Home 7--> 
+
+School 3--> 
+Bank 1--> 
+Home 8--> 
+
+ID: 1042 gender: M age: 1 job: Kid infection rate: 0.11513999999999999
+School 1--> 
+Restaurant 1--> 
+School 3--> 
+
+Park--> 
+Hospital--> 
+Park--> 
+
+Hospital--> 
+Hospital--> 
+Hospital--> 
+
+Park--> 
+Hospital--> 
+Home 3--> 
+
+Hospital--> 
+Restaurant 6--> 
+Home 1--> 
+
+Restaurant 4--> 
+Home 3--> 
+Park--> 
+
+Restaurant 6--> 
+School 1--> 
+Park--> 
+
+School 6--> 
+Restaurant 5--> 
+Hospital--> 
+
+School 1--> 
+Restaurant 4--> 
+Hospital--> 
+
+Hospital--> 
+School 1--> 
+Restaurant 3--> 
+
+Park--> 
+Restaurant 1--> 
+Restaurant 3--> 
+
+Park--> 
+Park--> 
+School 1--> 
+
+Hospital--> 
+School 2--> 
+Restaurant 6--> 
+
+Park--> 
+School 5--> 
+School 2--> 
+
+ID: 1043 gender: F age: 14 job: Student infection rate: 0.21999999999999997
+School 3--> 
+Office 4--> 
+Home 13--> 
+
+School 6--> 
+Office 9--> 
+Home 8--> 
+
+School 2--> 
+Hospital--> 
+Home 7--> 
+
+Restaurant 1--> 
+School 4--> 
+Home 3--> 
+
+School 1--> 
+Bank 4--> 
+Home 7--> 
+
+School 5--> 
+Supermarket 5--> 
+Home 5--> 
+
+School 4--> 
+Park--> 
+Home 5--> 
+
+School 6--> 
+Airport 5--> 
+Home 5--> 
+
+Airport 4--> 
+School 5--> 
+Home 4--> 
+
+School 4--> 
+GovtOffice 5--> 
+Home 14--> 
+
+Supermarket 7--> 
+School 3--> 
+Home 11--> 
+
+School 3--> 
+Bank 1--> 
+Home 13--> 
+
+School 2--> 
+Mall 1--> 
+Home 4--> 
+
+School 4--> 
+Police Station--> 
+Home 12--> 
+
+ID: 1044 gender: F age: 15 job: Student infection rate: 0.22967999999999994
+School 2--> 
+Airport 8--> 
+Home 1--> 
+
+Supermarket 3--> 
+School 5--> 
+Home 8--> 
+
+Police Station--> 
+School 6--> 
+Home 14--> 
+
+School 4--> 
+GovtOffice 6--> 
+Home 13--> 
+
+Police Station--> 
+School 3--> 
+Home 4--> 
+
+Hospital--> 
+School 6--> 
+Home 9--> 
+
+School 6--> 
+Office 5--> 
+Home 6--> 
+
+School 5--> 
+Police Station--> 
+Home 8--> 
+
+School 6--> 
+Restaurant 4--> 
+Home 5--> 
+
+School 5--> 
+Office 5--> 
+Home 13--> 
+
+School 6--> 
+Supermarket 2--> 
+Home 7--> 
+
+Restaurant 4--> 
+School 6--> 
+Home 11--> 
+
+Bank 1--> 
+School 3--> 
+Home 10--> 
+
+Mall 5--> 
+School 1--> 
+Home 10--> 
+
+ID: 1045 gender: F age: 6 job: Pupil infection rate: 0.16416000000000003
+School 1--> 
+Restaurant 2--> 
+Home 2--> 
+
+Park--> 
+School 4--> 
+Home 14--> 
+
+School 1--> 
+Airport 4--> 
+Home 10--> 
+
+School 2--> 
+Park--> 
+Home 2--> 
+
+School 3--> 
+Supermarket 5--> 
+Home 12--> 
+
+Restaurant 1--> 
+School 6--> 
+Home 14--> 
+
+School 2--> 
+Park--> 
+Home 6--> 
+
+School 5--> 
+Restaurant 1--> 
+Home 12--> 
+
+School 2--> 
+Airport 7--> 
+Home 12--> 
+
+Park--> 
+School 5--> 
+Home 10--> 
+
+School 5--> 
+Park--> 
+Home 9--> 
+
+Supermarket 3--> 
+School 3--> 
+Home 4--> 
+
+Restaurant 7--> 
+School 2--> 
+Home 7--> 
+
+School 4--> 
+Restaurant 4--> 
+Home 13--> 
+
+ID: 1046 gender: M age: 10 job: Pupil infection rate: 0.16756000000000001
+Hospital--> 
+School 3--> 
+Home 5--> 
+
+School 1--> 
+Airport 2--> 
+Home 5--> 
+
+Bank 1--> 
+School 5--> 
+Home 5--> 
+
+School 3--> 
+Bank 4--> 
+Home 5--> 
+
+School 2--> 
+Park--> 
+Home 4--> 
+
+Airport 3--> 
+School 1--> 
+Home 10--> 
+
+School 5--> 
+Hospital--> 
+Home 10--> 
+
+School 1--> 
+Office 5--> 
+Home 11--> 
+
+School 2--> 
+Airport 5--> 
+Home 12--> 
+
+Mall 5--> 
+School 6--> 
+Home 5--> 
+
+Airport 8--> 
+School 2--> 
+Home 6--> 
+
+Restaurant 1--> 
+School 6--> 
+Home 4--> 
+
+School 1--> 
+Mall 1--> 
+Home 13--> 
+
+Hospital--> 
+School 2--> 
+Home 6--> 
+
+ID: 1047 gender: M age: 3 job: Kid infection rate: 0.10669999999999998
+Park--> 
+Restaurant 1--> 
+Restaurant 1--> 
+
+School 2--> 
+Hospital--> 
+Home 4--> 
+
+Restaurant 4--> 
+Hospital--> 
+Home 14--> 
+
+Restaurant 1--> 
+Park--> 
+Park--> 
+
+Park--> 
+Park--> 
+Park--> 
+
+School 5--> 
+Hospital--> 
+School 1--> 
+
+Restaurant 3--> 
+Hospital--> 
+Restaurant 7--> 
+
+Home 5--> 
+School 4--> 
+Park--> 
+
+Restaurant 5--> 
+Restaurant 5--> 
+Restaurant 6--> 
+
+School 5--> 
+Hospital--> 
+Park--> 
+
+Park--> 
+Park--> 
+Home 11--> 
+
+Restaurant 2--> 
+Home 6--> 
+Park--> 
+
+Restaurant 3--> 
+Park--> 
+Restaurant 5--> 
+
+School 6--> 
+School 4--> 
+Hospital--> 
+
+ID: 1048 gender: F age: 11 job: Pupil infection rate: 0.15180000000000002
+Park--> 
+School 6--> 
+Home 1--> 
+
+Hospital--> 
+School 4--> 
+Home 7--> 
+
+Bank 4--> 
+School 5--> 
+Home 9--> 
+
+School 2--> 
+Airport 7--> 
+Home 11--> 
+
+Restaurant 5--> 
+School 1--> 
+Home 12--> 
+
+Bank 4--> 
+School 2--> 
+Home 7--> 
+
+Supermarket 6--> 
+School 6--> 
+Home 12--> 
+
+Bank 3--> 
+School 2--> 
+Home 7--> 
+
+Restaurant 1--> 
+School 1--> 
+Home 3--> 
+
+School 4--> 
+Hospital--> 
+Home 11--> 
+
+Bank 2--> 
+School 5--> 
+Home 4--> 
+
+Office 6--> 
+School 2--> 
+Home 11--> 
+
+Hospital--> 
+School 5--> 
+Home 1--> 
+
+Mall 6--> 
+School 5--> 
+Home 12--> 
+
+ID: 1049 gender: F age: 8 job: Pupil infection rate: 0.1496
+School 3--> 
+Hospital--> 
+Home 2--> 
+
+Park--> 
+School 6--> 
+Home 14--> 
+
+Airport 2--> 
+School 5--> 
+Home 4--> 
+
+School 1--> 
+Airport 2--> 
+Home 6--> 
+
+Park--> 
+School 3--> 
+Home 12--> 
+
+School 6--> 
+Office 3--> 
+Home 9--> 
+
+School 5--> 
+Hospital--> 
+Home 10--> 
+
+Supermarket 6--> 
+School 4--> 
+Home 13--> 
+
+School 5--> 
+Hospital--> 
+Home 5--> 
+
+School 6--> 
+Airport 8--> 
+Home 3--> 
+
+Park--> 
+School 2--> 
+Home 4--> 
+
+School 2--> 
+Supermarket 2--> 
+Home 9--> 
+
+School 2--> 
+Supermarket 5--> 
+Home 1--> 
+
+Restaurant 1--> 
+School 4--> 
+Home 9--> 
+
+ID: 1050 gender: F age: 5 job: Kid infection rate: 0.11483999999999997
+Hospital--> 
+Home 8--> 
+School 2--> 
+
+Restaurant 1--> 
+Park--> 
+School 3--> 
+
+Home 5--> 
+Park--> 
+Park--> 
+
+School 2--> 
+Park--> 
+Hospital--> 
+
+Hospital--> 
+Home 8--> 
+Restaurant 1--> 
+
+School 5--> 
+Hospital--> 
+School 2--> 
+
+Park--> 
+Restaurant 3--> 
+Restaurant 6--> 
+
+Home 2--> 
+Home 13--> 
+School 3--> 
+
+Restaurant 7--> 
+Restaurant 6--> 
+Park--> 
+
+School 4--> 
+Restaurant 2--> 
+Hospital--> 
+
+Park--> 
+Restaurant 2--> 
+Restaurant 5--> 
+
+Restaurant 4--> 
+Park--> 
+Park--> 
+
+Restaurant 1--> 
+Hospital--> 
+Hospital--> 
+
+Restaurant 3--> 
+School 6--> 
+Hospital--> 
+
+ID: 1051 gender: M age: 12 job: Student infection rate: 0.23127999999999993
+School 1--> 
+Police Station--> 
+Home 14--> 
+
+GovtOffice 4--> 
+School 3--> 
+Home 11--> 
+
+School 6--> 
+GovtOffice 1--> 
+Home 9--> 
+
+Bank 1--> 
+School 1--> 
+Home 6--> 
+
+School 4--> 
+GovtOffice 6--> 
+Home 3--> 
+
+Airport 6--> 
+School 4--> 
+Home 11--> 
+
+Mall 5--> 
+School 2--> 
+Home 12--> 
+
+Gym 1--> 
+School 1--> 
+Home 10--> 
+
+School 4--> 
+Office 6--> 
+Home 13--> 
+
+School 1--> 
+Mall 1--> 
+Home 1--> 
+
+Bank 3--> 
+School 1--> 
+Home 5--> 
+
+Hospital--> 
+School 3--> 
+Home 12--> 
+
+School 4--> 
+Airport 6--> 
+Home 8--> 
+
+Gym 1--> 
+School 5--> 
+Home 5--> 
+
+ID: 1052 gender: F age: 9 job: Pupil infection rate: 0.15840000000000004
+School 1--> 
+Supermarket 6--> 
+Home 13--> 
+
+Restaurant 2--> 
+School 4--> 
+Home 9--> 
+
+School 2--> 
+Mall 2--> 
+Home 14--> 
+
+Mall 4--> 
+School 6--> 
+Home 1--> 
+
+Hospital--> 
+School 1--> 
+Home 5--> 
+
+School 5--> 
+Park--> 
+Home 6--> 
+
+Supermarket 1--> 
+School 5--> 
+Home 11--> 
+
+Park--> 
+School 4--> 
+Home 6--> 
+
+School 5--> 
+Airport 5--> 
+Home 13--> 
+
+Bank 1--> 
+School 6--> 
+Home 13--> 
+
+Bank 3--> 
+School 2--> 
+Home 9--> 
+
+School 5--> 
+Supermarket 3--> 
+Home 14--> 
+
+Hospital--> 
+School 4--> 
+Home 3--> 
+
+School 5--> 
+Park--> 
+Home 7--> 
+
+ID: 1053 gender: M age: 12 job: Student infection rate: 0.23027999999999998
+School 4--> 
+Office 11--> 
+Home 7--> 
+
+Bank 1--> 
+School 1--> 
+Home 11--> 
+
+Hospital--> 
+School 4--> 
+Home 6--> 
+
+School 3--> 
+Restaurant 4--> 
+Home 14--> 
+
+Park--> 
+School 3--> 
+Home 2--> 
+
+School 3--> 
+Office 9--> 
+Home 3--> 
+
+Hospital--> 
+School 4--> 
+Home 12--> 
+
+Bank 2--> 
+School 1--> 
+Home 1--> 
+
+School 1--> 
+Hospital--> 
+Home 3--> 
+
+GovtOffice 5--> 
+School 3--> 
+Home 13--> 
+
+Supermarket 1--> 
+School 5--> 
+Home 8--> 
+
+School 2--> 
+Hospital--> 
+Home 5--> 
+
+School 1--> 
+Park--> 
+Home 14--> 
+
+School 5--> 
+Supermarket 3--> 
+Home 1--> 
+
+ID: 1054 gender: M age: 11 job: Pupil infection rate: 0.15680000000000002
+School 5--> 
+Bank 2--> 
+Home 10--> 
+
+School 4--> 
+Airport 1--> 
+Home 14--> 
+
+School 4--> 
+Mall 1--> 
+Home 13--> 
+
+School 6--> 
+Bank 2--> 
+Home 8--> 
+
+Bank 2--> 
+School 2--> 
+Home 12--> 
+
+School 1--> 
+Supermarket 1--> 
+Home 11--> 
+
+Bank 3--> 
+School 5--> 
+Home 8--> 
+
+School 6--> 
+Office 7--> 
+Home 13--> 
+
+School 2--> 
+Supermarket 7--> 
+Home 3--> 
+
+Restaurant 1--> 
+School 2--> 
+Home 1--> 
+
+School 3--> 
+Airport 4--> 
+Home 6--> 
+
+School 4--> 
+Bank 4--> 
+Home 6--> 
+
+School 3--> 
+Restaurant 6--> 
+Home 11--> 
+
+School 3--> 
+Supermarket 5--> 
+Home 13--> 
+
+ID: 1055 gender: M age: 9 job: Pupil infection rate: 0.16756000000000001
+School 4--> 
+Park--> 
+Home 14--> 
+
+Restaurant 6--> 
+School 2--> 
+Home 13--> 
+
+Hospital--> 
+School 6--> 
+Home 5--> 
+
+School 2--> 
+Mall 1--> 
+Home 1--> 
+
+Hospital--> 
+School 4--> 
+Home 5--> 
+
+School 2--> 
+Office 10--> 
+Home 7--> 
+
+Supermarket 2--> 
+School 3--> 
+Home 10--> 
+
+Supermarket 4--> 
+School 1--> 
+Home 3--> 
+
+School 1--> 
+Airport 5--> 
+Home 8--> 
+
+Mall 6--> 
+School 1--> 
+Home 7--> 
+
+Park--> 
+School 1--> 
+Home 9--> 
+
+Hospital--> 
+School 1--> 
+Home 5--> 
+
+School 2--> 
+Park--> 
+Home 11--> 
+
+Park--> 
+School 5--> 
+Home 1--> 
+
+ID: 1056 gender: F age: 5 job: Kid infection rate: 0.10829999999999998
+Hospital--> 
+School 6--> 
+School 2--> 
+
+School 1--> 
+Park--> 
+Home 12--> 
+
+Hospital--> 
+Hospital--> 
+Home 3--> 
+
+Restaurant 7--> 
+School 5--> 
+Restaurant 5--> 
+
+Park--> 
+Hospital--> 
+School 5--> 
+
+Home 3--> 
+Home 5--> 
+Hospital--> 
+
+Restaurant 5--> 
+Park--> 
+Restaurant 5--> 
+
+Hospital--> 
+Restaurant 2--> 
+Restaurant 2--> 
+
+Park--> 
+Home 3--> 
+Restaurant 3--> 
+
+Home 7--> 
+Home 1--> 
+Park--> 
+
+Hospital--> 
+Home 7--> 
+School 6--> 
+
+School 3--> 
+Hospital--> 
+School 6--> 
+
+Restaurant 6--> 
+Home 6--> 
+School 6--> 
+
+Home 2--> 
+School 1--> 
+School 2--> 
+
+ID: 1057 gender: M age: 17 job: Student infection rate: 0.21711999999999992
+GovtOffice 6--> 
+School 2--> 
+Home 8--> 
+
+Park--> 
+School 5--> 
+Home 8--> 
+
+Bank 1--> 
+School 2--> 
+Home 12--> 
+
+School 6--> 
+Police Station--> 
+Home 10--> 
+
+School 4--> 
+Supermarket 5--> 
+Home 10--> 
+
+School 5--> 
+Supermarket 6--> 
+Home 10--> 
+
+Airport 3--> 
+School 6--> 
+Home 5--> 
+
+School 4--> 
+Police Station--> 
+Home 3--> 
+
+Mall 5--> 
+School 4--> 
+Home 5--> 
+
+Gym 2--> 
+School 4--> 
+Home 14--> 
+
+Restaurant 7--> 
+School 5--> 
+Home 1--> 
+
+Gym 4--> 
+School 6--> 
+Home 7--> 
+
+School 2--> 
+GovtOffice 3--> 
+Home 2--> 
+
+School 2--> 
+Mall 6--> 
+Home 2--> 
+
+ID: 1058 gender: F age: 17 job: Student infection rate: 0.21659999999999996
+School 5--> 
+Office 4--> 
+Home 6--> 
+
+Restaurant 2--> 
+School 4--> 
+Home 13--> 
+
+School 6--> 
+GovtOffice 3--> 
+Home 4--> 
+
+Police Station--> 
+School 6--> 
+Home 13--> 
+
+Gym 1--> 
+School 2--> 
+Home 12--> 
+
+Police Station--> 
+School 6--> 
+Home 11--> 
+
+School 3--> 
+Office 3--> 
+Home 11--> 
+
+Police Station--> 
+School 6--> 
+Home 2--> 
+
+Park--> 
+School 6--> 
+Home 13--> 
+
+Park--> 
+School 2--> 
+Home 4--> 
+
+School 2--> 
+Airport 3--> 
+Home 9--> 
+
+School 4--> 
+Mall 5--> 
+Home 10--> 
+
+Police Station--> 
+School 6--> 
+Home 10--> 
+
+School 5--> 
+Mall 1--> 
+Home 14--> 
+
+ID: 1059 gender: M age: 12 job: Student infection rate: 0.22799999999999998
+Mall 4--> 
+School 2--> 
+Home 12--> 
+
+School 5--> 
+GovtOffice 6--> 
+Home 7--> 
+
+School 4--> 
+Supermarket 4--> 
+Home 3--> 
+
+Hospital--> 
+School 6--> 
+Home 11--> 
+
+Office 3--> 
+School 1--> 
+Home 4--> 
+
+School 4--> 
+Supermarket 2--> 
+Home 14--> 
+
+Office 3--> 
+School 5--> 
+Home 11--> 
+
+Police Station--> 
+School 5--> 
+Home 5--> 
+
+School 1--> 
+GovtOffice 1--> 
+Home 2--> 
+
+Airport 3--> 
+School 6--> 
+Home 12--> 
+
+Police Station--> 
+School 1--> 
+Home 14--> 
+
+Gym 3--> 
+School 6--> 
+Home 3--> 
+
+School 3--> 
+Office 5--> 
+Home 4--> 
+
+School 6--> 
+Police Station--> 
+Home 3--> 
+
+ID: 1060 gender: F age: 1 job: Kid infection rate: 0.10669999999999998
+Park--> 
+Restaurant 4--> 
+Hospital--> 
+
+Home 4--> 
+Home 14--> 
+School 2--> 
+
+Restaurant 2--> 
+Home 2--> 
+Park--> 
+
+Hospital--> 
+Hospital--> 
+Park--> 
+
+Home 9--> 
+School 4--> 
+Hospital--> 
+
+Restaurant 4--> 
+Hospital--> 
+Hospital--> 
+
+Hospital--> 
+Home 5--> 
+Park--> 
+
+School 3--> 
+School 2--> 
+School 1--> 
+
+Park--> 
+Home 2--> 
+Park--> 
+
+Restaurant 1--> 
+Hospital--> 
+Park--> 
+
+Hospital--> 
+School 2--> 
+School 4--> 
+
+Restaurant 3--> 
+Home 7--> 
+Restaurant 2--> 
+
+Hospital--> 
+Restaurant 6--> 
+Restaurant 2--> 
+
+Restaurant 4--> 
+Park--> 
+Home 6--> 
+
+ID: 1061 gender: M age: 8 job: Pupil infection rate: 0.16128000000000003
+Mall 5--> 
+School 1--> 
+Home 4--> 
+
+Mall 4--> 
+School 1--> 
+Home 10--> 
+
+School 4--> 
+Mall 4--> 
+Home 11--> 
+
+Bank 1--> 
+School 6--> 
+Home 6--> 
+
+School 5--> 
+Supermarket 7--> 
+Home 4--> 
+
+School 2--> 
+Park--> 
+Home 4--> 
+
+Office 1--> 
+School 3--> 
+Home 1--> 
+
+School 3--> 
+Supermarket 5--> 
+Home 7--> 
+
+School 3--> 
+Bank 3--> 
+Home 1--> 
+
+Bank 1--> 
+School 5--> 
+Home 10--> 
+
+Bank 3--> 
+School 3--> 
+Home 7--> 
+
+Supermarket 3--> 
+School 2--> 
+Home 2--> 
+
+School 6--> 
+Supermarket 2--> 
+Home 11--> 
+
+School 1--> 
+Office 2--> 
+Home 14--> 
+
+ID: 1062 gender: M age: 1 job: Kid infection rate: 0.11087999999999998
+School 1--> 
+Park--> 
+Restaurant 4--> 
+
+Hospital--> 
+Home 13--> 
+Restaurant 6--> 
+
+School 5--> 
+School 3--> 
+School 3--> 
+
+Home 6--> 
+School 1--> 
+Park--> 
+
+Restaurant 2--> 
+School 4--> 
+Restaurant 3--> 
+
+Hospital--> 
+Park--> 
+Home 5--> 
+
+Home 2--> 
+School 4--> 
+Hospital--> 
+
+Hospital--> 
+Restaurant 3--> 
+Park--> 
+
+Hospital--> 
+Hospital--> 
+Restaurant 2--> 
+
+Hospital--> 
+School 6--> 
+Park--> 
+
+Restaurant 3--> 
+Restaurant 6--> 
+School 6--> 
+
+Home 6--> 
+School 1--> 
+Home 7--> 
+
+School 5--> 
+Restaurant 6--> 
+School 4--> 
+
+School 3--> 
+Hospital--> 
+Hospital--> 
+
+ID: 1063 gender: F age: 14 job: Student infection rate: 0.22735999999999992
+School 1--> 
+Bank 2--> 
+Home 2--> 
+
+Airport 8--> 
+School 4--> 
+Home 12--> 
+
+School 6--> 
+Supermarket 6--> 
+Home 9--> 
+
+Airport 3--> 
+School 3--> 
+Home 1--> 
+
+School 4--> 
+Airport 5--> 
+Home 2--> 
+
+Park--> 
+School 1--> 
+Home 11--> 
+
+Hospital--> 
+School 1--> 
+Home 14--> 
+
+Supermarket 3--> 
+School 4--> 
+Home 14--> 
+
+School 4--> 
+Restaurant 2--> 
+Home 13--> 
+
+Supermarket 3--> 
+School 1--> 
+Home 11--> 
+
+School 1--> 
+Hospital--> 
+Home 2--> 
+
+School 3--> 
+Mall 6--> 
+Home 5--> 
+
+Police Station--> 
+School 2--> 
+Home 11--> 
+
+School 1--> 
+Mall 3--> 
+Home 2--> 
+
+ID: 1064 gender: M age: 3 job: Kid infection rate: 0.11019999999999996
+Park--> 
+Park--> 
+Restaurant 3--> 
+
+School 3--> 
+Restaurant 2--> 
+Park--> 
+
+School 6--> 
+School 6--> 
+Park--> 
+
+Home 11--> 
+Park--> 
+School 1--> 
+
+Restaurant 6--> 
+Park--> 
+Park--> 
+
+School 3--> 
+School 2--> 
+School 2--> 
+
+Restaurant 4--> 
+Restaurant 4--> 
+Restaurant 3--> 
+
+Park--> 
+School 6--> 
+Hospital--> 
+
+Restaurant 2--> 
+School 2--> 
+School 5--> 
+
+Restaurant 2--> 
+Park--> 
+Home 11--> 
+
+Park--> 
+Park--> 
+Hospital--> 
+
+Park--> 
+Home 1--> 
+Hospital--> 
+
+Hospital--> 
+Park--> 
+School 2--> 
+
+Hospital--> 
+Home 12--> 
+Restaurant 2--> 
+
+ID: 1065 gender: F age: 11 job: Pupil infection rate: 0.16992000000000002
+Mall 3--> 
+School 2--> 
+Home 10--> 
+
+School 3--> 
+Office 5--> 
+Home 9--> 
+
+Supermarket 7--> 
+School 3--> 
+Home 12--> 
+
+Airport 5--> 
+School 6--> 
+Home 13--> 
+
+Office 10--> 
+School 4--> 
+Home 6--> 
+
+Park--> 
+School 6--> 
+Home 14--> 
+
+Mall 1--> 
+School 2--> 
+Home 13--> 
+
+School 6--> 
+Office 4--> 
+Home 4--> 
+
+School 5--> 
+Supermarket 2--> 
+Home 1--> 
+
+School 2--> 
+Office 9--> 
+Home 4--> 
+
+Airport 8--> 
+School 3--> 
+Home 2--> 
+
+Hospital--> 
+School 1--> 
+Home 14--> 
+
+Bank 4--> 
+School 4--> 
+Home 2--> 
+
+Bank 3--> 
+School 6--> 
+Home 8--> 
+
+ID: 1066 gender: F age: 3 job: Kid infection rate: 0.11311999999999998
+Home 6--> 
+Restaurant 2--> 
+Home 12--> 
+
+Restaurant 3--> 
+Restaurant 5--> 
+School 4--> 
+
+Hospital--> 
+Hospital--> 
+Home 12--> 
+
+Hospital--> 
+Home 2--> 
+Park--> 
+
+Park--> 
+Park--> 
+Restaurant 2--> 
+
+Hospital--> 
+Hospital--> 
+Home 11--> 
+
+Restaurant 7--> 
+School 5--> 
+Park--> 
+
+Home 8--> 
+Home 13--> 
+School 6--> 
+
+Home 6--> 
+Hospital--> 
+Home 1--> 
+
+School 2--> 
+School 6--> 
+School 2--> 
+
+School 2--> 
+Park--> 
+Hospital--> 
+
+Park--> 
+Park--> 
+Restaurant 6--> 
+
+School 4--> 
+Park--> 
+Restaurant 2--> 
+
+Park--> 
+School 2--> 
+Hospital--> 
+
+ID: 1067 gender: F age: 15 job: Student infection rate: 0.23363999999999993
+School 1--> 
+Bank 1--> 
+Home 1--> 
+
+Police Station--> 
+School 4--> 
+Home 7--> 
+
+School 5--> 
+Bank 3--> 
+Home 1--> 
+
+Park--> 
+School 6--> 
+Home 11--> 
+
+School 2--> 
+Park--> 
+Home 13--> 
+
+Restaurant 1--> 
+School 6--> 
+Home 6--> 
+
+Mall 3--> 
+School 2--> 
+Home 5--> 
+
+GovtOffice 2--> 
+School 3--> 
+Home 13--> 
+
+School 2--> 
+Restaurant 5--> 
+Home 4--> 
+
+School 2--> 
+Bank 2--> 
+Home 14--> 
+
+Police Station--> 
+School 1--> 
+Home 1--> 
+
+Hospital--> 
+School 2--> 
+Home 6--> 
+
+School 4--> 
+Supermarket 2--> 
+Home 5--> 
+
+School 6--> 
+Airport 5--> 
+Home 3--> 
+
+ID: 1068 gender: M age: 1 job: Kid infection rate: 0.11715999999999997
+Restaurant 4--> 
+Hospital--> 
+School 3--> 
+
+Home 7--> 
+Restaurant 1--> 
+Restaurant 7--> 
+
+Park--> 
+Park--> 
+Park--> 
+
+School 2--> 
+Hospital--> 
+Home 10--> 
+
+Home 7--> 
+School 6--> 
+School 6--> 
+
+Home 10--> 
+Park--> 
+Restaurant 1--> 
+
+School 3--> 
+Hospital--> 
+Home 2--> 
+
+Hospital--> 
+Home 2--> 
+Park--> 
+
+Restaurant 3--> 
+Home 1--> 
+School 2--> 
+
+Hospital--> 
+Home 10--> 
+Hospital--> 
+
+School 1--> 
+School 6--> 
+Restaurant 2--> 
+
+Home 14--> 
+Hospital--> 
+Home 12--> 
+
+Hospital--> 
+Home 8--> 
+School 4--> 
+
+School 3--> 
+Hospital--> 
+Park--> 
+
+ID: 1069 gender: M age: 8 job: Pupil infection rate: 0.15400000000000003
+Park--> 
+School 1--> 
+Home 2--> 
+
+Mall 2--> 
+School 1--> 
+Home 7--> 
+
+School 4--> 
+Office 7--> 
+Home 7--> 
+
+School 5--> 
+Park--> 
+Home 12--> 
+
+Bank 1--> 
+School 4--> 
+Home 7--> 
+
+Supermarket 5--> 
+School 5--> 
+Home 9--> 
+
+Mall 3--> 
+School 4--> 
+Home 13--> 
+
+Office 3--> 
+School 6--> 
+Home 14--> 
+
+School 4--> 
+Airport 8--> 
+Home 7--> 
+
+School 1--> 
+Park--> 
+Home 10--> 
+
+School 5--> 
+Bank 1--> 
+Home 8--> 
+
+Airport 3--> 
+School 6--> 
+Home 12--> 
+
+School 3--> 
+Hospital--> 
+Home 10--> 
+
+School 5--> 
+Restaurant 2--> 
+Home 11--> 
+
+ID: 1070 gender: M age: 0 job: Kid infection rate: 0.11019999999999996
+Home 2--> 
+Restaurant 6--> 
+Home 5--> 
+
+Hospital--> 
+Home 6--> 
+Hospital--> 
+
+Park--> 
+Home 5--> 
+Restaurant 6--> 
+
+Park--> 
+School 4--> 
+School 1--> 
+
+Home 14--> 
+Home 2--> 
+Park--> 
+
+Hospital--> 
+Park--> 
+Restaurant 4--> 
+
+Home 10--> 
+Restaurant 5--> 
+School 1--> 
+
+School 6--> 
+Hospital--> 
+Hospital--> 
+
+Restaurant 5--> 
+School 1--> 
+Restaurant 2--> 
+
+Restaurant 2--> 
+Hospital--> 
+Park--> 
+
+Home 14--> 
+Home 13--> 
+Hospital--> 
+
+Hospital--> 
+Park--> 
+Home 8--> 
+
+Home 3--> 
+Hospital--> 
+Home 7--> 
+
+Hospital--> 
+Restaurant 4--> 
+School 3--> 
+
+ID: 1071 gender: F age: 10 job: Pupil infection rate: 0.16704000000000002
+Office 11--> 
+School 3--> 
+Home 2--> 
+
+School 1--> 
+Hospital--> 
+Home 6--> 
+
+Hospital--> 
+School 4--> 
+Home 9--> 
+
+Supermarket 2--> 
+School 5--> 
+Home 6--> 
+
+School 2--> 
+Hospital--> 
+Home 6--> 
+
+School 4--> 
+Restaurant 6--> 
+Home 4--> 
+
+Supermarket 7--> 
+School 6--> 
+Home 9--> 
+
+School 6--> 
+Mall 3--> 
+Home 3--> 
+
+School 5--> 
+Mall 1--> 
+Home 11--> 
+
+Supermarket 4--> 
+School 6--> 
+Home 6--> 
+
+Office 8--> 
+School 5--> 
+Home 10--> 
+
+Hospital--> 
+School 1--> 
+Home 6--> 
+
+School 5--> 
+Park--> 
+Home 12--> 
+
+Office 10--> 
+School 4--> 
+Home 10--> 
+
+ID: 1072 gender: F age: 5 job: Kid infection rate: 0.10449999999999998
+Restaurant 4--> 
+School 2--> 
+Restaurant 6--> 
+
+Park--> 
+School 5--> 
+Restaurant 1--> 
+
+Home 10--> 
+Park--> 
+School 4--> 
+
+Home 6--> 
+Hospital--> 
+Park--> 
+
+Hospital--> 
+Restaurant 5--> 
+Park--> 
+
+Hospital--> 
+Hospital--> 
+Hospital--> 
+
+Restaurant 2--> 
+Home 5--> 
+Restaurant 3--> 
+
+School 3--> 
+School 6--> 
+School 1--> 
+
+School 2--> 
+Hospital--> 
+Restaurant 2--> 
+
+Restaurant 5--> 
+School 2--> 
+Hospital--> 
+
+School 1--> 
+School 3--> 
+Hospital--> 
+
+Park--> 
+Restaurant 3--> 
+Home 3--> 
+
+Home 3--> 
+Restaurant 3--> 
+Park--> 
+
+Restaurant 4--> 
+School 3--> 
+Hospital--> 
+
+ID: 1073 gender: M age: 4 job: Kid infection rate: 0.10889999999999998
+Hospital--> 
+Restaurant 6--> 
+Restaurant 1--> 
+
+Park--> 
+School 4--> 
+Park--> 
+
+Home 14--> 
+Restaurant 4--> 
+Hospital--> 
+
+Park--> 
+Home 6--> 
+School 1--> 
+
+Hospital--> 
+School 3--> 
+Restaurant 3--> 
+
+Hospital--> 
+Hospital--> 
+Hospital--> 
+
+Restaurant 4--> 
+Home 10--> 
+Restaurant 5--> 
+
+Restaurant 4--> 
+Park--> 
+Restaurant 2--> 
+
+Restaurant 7--> 
+Park--> 
+School 3--> 
+
+Hospital--> 
+Home 4--> 
+Park--> 
+
+Restaurant 7--> 
+Park--> 
+School 4--> 
+
+Hospital--> 
+Park--> 
+School 4--> 
+
+Park--> 
+Hospital--> 
+Restaurant 3--> 
+
+Home 12--> 
+Park--> 
+Home 1--> 
+
+ID: 1074 gender: M age: 8 job: Pupil infection rate: 0.16008
+School 3--> 
+Mall 3--> 
+Home 5--> 
+
+School 1--> 
+Office 2--> 
+Home 7--> 
+
+Supermarket 4--> 
+School 3--> 
+Home 3--> 
+
+School 6--> 
+Park--> 
+Home 11--> 
+
+Hospital--> 
+School 5--> 
+Home 13--> 
+
+School 2--> 
+Park--> 
+Home 4--> 
+
+School 3--> 
+Restaurant 6--> 
+Home 12--> 
+
+School 5--> 
+Hospital--> 
+Home 3--> 
+
+Hospital--> 
+School 6--> 
+Home 9--> 
+
+Office 9--> 
+School 4--> 
+Home 5--> 
+
+School 6--> 
+Mall 1--> 
+Home 11--> 
+
+Supermarket 5--> 
+School 1--> 
+Home 12--> 
+
+School 1--> 
+Airport 2--> 
+Home 12--> 
+
+Bank 3--> 
+School 1--> 
+Home 4--> 
+
+ID: 1075 gender: F age: 5 job: Kid infection rate: 0.10973999999999996
+Hospital--> 
+Restaurant 7--> 
+Restaurant 7--> 
+
+Home 3--> 
+Park--> 
+Restaurant 1--> 
+
+Park--> 
+School 3--> 
+Hospital--> 
+
+Home 1--> 
+Restaurant 6--> 
+School 5--> 
+
+Home 10--> 
+Home 12--> 
+School 6--> 
+
+Hospital--> 
+Park--> 
+Park--> 
+
+Restaurant 3--> 
+Hospital--> 
+School 2--> 
+
+Park--> 
+Home 6--> 
+Home 14--> 
+
+Restaurant 2--> 
+Park--> 
+Park--> 
+
+School 1--> 
+School 3--> 
+Hospital--> 
+
+Home 4--> 
+Hospital--> 
+School 5--> 
+
+School 3--> 
+Home 3--> 
+Restaurant 3--> 
+
+Hospital--> 
+Park--> 
+Home 14--> 
+
+Hospital--> 
+Restaurant 1--> 
+Restaurant 5--> 
+
+ID: 1076 gender: F age: 16 job: Student infection rate: 0.22183999999999993
+Airport 1--> 
+School 1--> 
+Home 10--> 
+
+Restaurant 2--> 
+School 2--> 
+Home 6--> 
+
+Restaurant 6--> 
+School 6--> 
+Home 12--> 
+
+Restaurant 4--> 
+School 2--> 
+Home 4--> 
+
+School 6--> 
+Park--> 
+Home 3--> 
+
+School 5--> 
+Office 1--> 
+Home 9--> 
+
+School 5--> 
+Mall 1--> 
+Home 1--> 
+
+Bank 4--> 
+School 6--> 
+Home 13--> 
+
+Mall 2--> 
+School 4--> 
+Home 2--> 
+
+School 3--> 
+Police Station--> 
+Home 6--> 
+
+School 6--> 
+Mall 6--> 
+Home 6--> 
+
+School 1--> 
+Park--> 
+Home 12--> 
+
+School 5--> 
+Office 3--> 
+Home 12--> 
+
+School 4--> 
+Park--> 
+Home 10--> 
+
+ID: 1077 gender: M age: 11 job: Pupil infection rate: 0.15456000000000003
+Bank 3--> 
+School 5--> 
+Home 1--> 
+
+Supermarket 6--> 
+School 3--> 
+Home 7--> 
+
+School 4--> 
+Office 8--> 
+Home 8--> 
+
+Office 6--> 
+School 4--> 
+Home 8--> 
+
+School 5--> 
+Office 4--> 
+Home 10--> 
+
+School 2--> 
+Airport 3--> 
+Home 13--> 
+
+School 5--> 
+Office 1--> 
+Home 9--> 
+
+School 3--> 
+Mall 4--> 
+Home 9--> 
+
+Hospital--> 
+School 6--> 
+Home 4--> 
+
+School 1--> 
+Park--> 
+Home 8--> 
+
+Supermarket 7--> 
+School 5--> 
+Home 14--> 
+
+School 6--> 
+Supermarket 2--> 
+Home 13--> 
+
+School 3--> 
+Office 2--> 
+Home 2--> 
+
+Hospital--> 
+School 5--> 
+Home 11--> 
+
+ID: 1078 gender: M age: 9 job: Pupil infection rate: 0.15504000000000004
+Airport 8--> 
+School 3--> 
+Home 7--> 
+
+School 6--> 
+Hospital--> 
+Home 7--> 
+
+School 3--> 
+Airport 2--> 
+Home 4--> 
+
+School 1--> 
+Bank 3--> 
+Home 11--> 
+
+Park--> 
+School 6--> 
+Home 2--> 
+
+Office 2--> 
+School 6--> 
+Home 6--> 
+
+School 3--> 
+Park--> 
+Home 8--> 
+
+School 5--> 
+Hospital--> 
+Home 3--> 
+
+Office 5--> 
+School 2--> 
+Home 8--> 
+
+Hospital--> 
+School 1--> 
+Home 3--> 
+
+Office 6--> 
+School 3--> 
+Home 2--> 
+
+Airport 8--> 
+School 3--> 
+Home 6--> 
+
+School 3--> 
+Park--> 
+Home 4--> 
+
+School 3--> 
+Park--> 
+Home 12--> 
+
+ID: 1079 gender: F age: 17 job: Student infection rate: 0.22655999999999993
+School 3--> 
+Park--> 
+Home 5--> 
+
+School 1--> 
+Restaurant 6--> 
+Home 11--> 
+
+Restaurant 2--> 
+School 2--> 
+Home 2--> 
+
+School 1--> 
+Police Station--> 
+Home 12--> 
+
+School 6--> 
+Restaurant 1--> 
+Home 1--> 
+
+Airport 1--> 
+School 3--> 
+Home 1--> 
+
+Airport 6--> 
+School 5--> 
+Home 10--> 
+
+Hospital--> 
+School 4--> 
+Home 7--> 
+
+Mall 6--> 
+School 2--> 
+Home 14--> 
+
+School 5--> 
+Restaurant 2--> 
+Home 12--> 
+
+Airport 7--> 
+School 1--> 
+Home 2--> 
+
+School 2--> 
+Hospital--> 
+Home 9--> 
+
+School 6--> 
+Supermarket 6--> 
+Home 6--> 
+
+School 2--> 
+Supermarket 6--> 
+Home 2--> 
+
+ID: 1080 gender: F age: 10 job: Pupil infection rate: 0.16472
+School 6--> 
+Restaurant 6--> 
+Home 13--> 
+
+Mall 4--> 
+School 5--> 
+Home 8--> 
+
+School 5--> 
+Airport 7--> 
+Home 1--> 
+
+Hospital--> 
+School 6--> 
+Home 5--> 
+
+School 5--> 
+Supermarket 3--> 
+Home 6--> 
+
+Mall 6--> 
+School 6--> 
+Home 10--> 
+
+School 3--> 
+Airport 2--> 
+Home 12--> 
+
+School 1--> 
+Mall 1--> 
+Home 12--> 
+
+Office 4--> 
+School 3--> 
+Home 11--> 
+
+Hospital--> 
+School 6--> 
+Home 11--> 
+
+Hospital--> 
+School 6--> 
+Home 11--> 
+
+School 1--> 
+Airport 8--> 
+Home 14--> 
+
+School 4--> 
+Park--> 
+Home 4--> 
+
+Hospital--> 
+School 2--> 
+Home 13--> 
+
+ID: 1081 gender: M age: 12 job: Student infection rate: 0.22891999999999993
+Office 5--> 
+School 4--> 
+Home 3--> 
+
+School 3--> 
+Park--> 
+Home 8--> 
+
+GovtOffice 2--> 
+School 3--> 
+Home 10--> 
+
+School 2--> 
+Hospital--> 
+Home 6--> 
+
+School 5--> 
+Airport 6--> 
+Home 1--> 
+
+School 1--> 
+Restaurant 6--> 
+Home 12--> 
+
+GovtOffice 2--> 
+School 1--> 
+Home 5--> 
+
+School 3--> 
+Office 3--> 
+Home 10--> 
+
+School 5--> 
+Airport 8--> 
+Home 4--> 
+
+School 5--> 
+Police Station--> 
+Home 9--> 
+
+Mall 5--> 
+School 4--> 
+Home 12--> 
+
+Hospital--> 
+School 6--> 
+Home 14--> 
+
+Airport 7--> 
+School 3--> 
+Home 3--> 
+
+Park--> 
+School 3--> 
+Home 7--> 
+
+ID: 1082 gender: M age: 2 job: Kid infection rate: 0.10787999999999996
+Home 2--> 
+Park--> 
+Hospital--> 
+
+Park--> 
+Hospital--> 
+Park--> 
+
+Hospital--> 
+Restaurant 1--> 
+Park--> 
+
+Restaurant 3--> 
+Park--> 
+School 1--> 
+
+Restaurant 4--> 
+Restaurant 6--> 
+School 1--> 
+
+School 1--> 
+Home 11--> 
+Park--> 
+
+Restaurant 6--> 
+Park--> 
+Restaurant 3--> 
+
+Park--> 
+Hospital--> 
+Restaurant 5--> 
+
+Restaurant 2--> 
+Restaurant 6--> 
+Park--> 
+
+Park--> 
+School 1--> 
+Hospital--> 
+
+Home 9--> 
+Home 13--> 
+School 6--> 
+
+School 4--> 
+Restaurant 7--> 
+Park--> 
+
+Restaurant 6--> 
+Hospital--> 
+Home 2--> 
+
+Hospital--> 
+Hospital--> 
+Park--> 
+
+ID: 1083 gender: F age: 3 job: Kid infection rate: 0.10415999999999997
+Home 4--> 
+Home 7--> 
+Home 10--> 
+
+Restaurant 4--> 
+Hospital--> 
+Restaurant 1--> 
+
+School 4--> 
+Hospital--> 
+Hospital--> 
+
+Restaurant 7--> 
+School 6--> 
+Home 9--> 
+
+Hospital--> 
+Home 6--> 
+Hospital--> 
+
+Home 13--> 
+Restaurant 6--> 
+Home 1--> 
+
+Restaurant 2--> 
+Hospital--> 
+Hospital--> 
+
+Hospital--> 
+Park--> 
+School 1--> 
+
+Restaurant 5--> 
+Hospital--> 
+Home 8--> 
+
+Park--> 
+School 6--> 
+Restaurant 2--> 
+
+Home 6--> 
+Restaurant 5--> 
+Home 3--> 
+
+School 1--> 
+School 3--> 
+Home 1--> 
+
+Restaurant 6--> 
+Home 7--> 
+Hospital--> 
+
+Home 7--> 
+Restaurant 6--> 
+Home 10--> 
+
+ID: 1084 gender: F age: 11 job: Pupil infection rate: 0.16188000000000002
+Park--> 
+School 2--> 
+Home 3--> 
+
+School 3--> 
+Hospital--> 
+Home 4--> 
+
+Office 8--> 
+School 4--> 
+Home 10--> 
+
+School 4--> 
+Airport 4--> 
+Home 5--> 
+
+Bank 2--> 
+School 4--> 
+Home 11--> 
+
+Supermarket 7--> 
+School 4--> 
+Home 10--> 
+
+Hospital--> 
+School 3--> 
+Home 10--> 
+
+Hospital--> 
+School 2--> 
+Home 13--> 
+
+School 5--> 
+Restaurant 1--> 
+Home 2--> 
+
+Hospital--> 
+School 1--> 
+Home 13--> 
+
+Bank 3--> 
+School 5--> 
+Home 8--> 
+
+Hospital--> 
+School 6--> 
+Home 6--> 
+
+Airport 4--> 
+School 2--> 
+Home 3--> 
+
+School 1--> 
+Bank 1--> 
+Home 13--> 
+
+ID: 1085 gender: M age: 11 job: Pupil infection rate: 0.15904000000000004
+Supermarket 1--> 
+School 1--> 
+Home 6--> 
+
+School 5--> 
+Office 10--> 
+Home 3--> 
+
+School 6--> 
+Park--> 
+Home 13--> 
+
+School 5--> 
+Supermarket 7--> 
+Home 12--> 
+
+School 4--> 
+Airport 5--> 
+Home 9--> 
+
+School 4--> 
+Park--> 
+Home 6--> 
+
+Airport 7--> 
+School 2--> 
+Home 12--> 
+
+School 2--> 
+Mall 3--> 
+Home 12--> 
+
+Supermarket 4--> 
+School 5--> 
+Home 4--> 
+
+Bank 4--> 
+School 2--> 
+Home 14--> 
+
+School 1--> 
+Supermarket 4--> 
+Home 1--> 
+
+Restaurant 6--> 
+School 6--> 
+Home 10--> 
+
+School 3--> 
+Airport 2--> 
+Home 6--> 
+
+Airport 5--> 
+School 3--> 
+Home 9--> 
+
+ID: 1086 gender: M age: 0 job: Kid infection rate: 0.11285999999999999
+School 1--> 
+Restaurant 2--> 
+Home 10--> 
+
+Home 12--> 
+School 1--> 
+Home 5--> 
+
+Park--> 
+School 1--> 
+Hospital--> 
+
+Restaurant 4--> 
+Hospital--> 
+School 3--> 
+
+Hospital--> 
+School 3--> 
+School 5--> 
+
+Home 9--> 
+Hospital--> 
+School 2--> 
+
+Restaurant 7--> 
+Park--> 
+Hospital--> 
+
+Home 8--> 
+School 1--> 
+Home 6--> 
+
+Hospital--> 
+Hospital--> 
+Park--> 
+
+School 2--> 
+School 4--> 
+Park--> 
+
+School 3--> 
+Home 2--> 
+Hospital--> 
+
+Hospital--> 
+Hospital--> 
+Home 3--> 
+
+Restaurant 4--> 
+Park--> 
+Home 7--> 
+
+Hospital--> 
+Hospital--> 
+Park--> 
+
+ID: 1087 gender: M age: 9 job: Pupil infection rate: 0.15840000000000004
+Park--> 
+School 4--> 
+Home 4--> 
+
+Mall 5--> 
+School 6--> 
+Home 6--> 
+
+Park--> 
+School 6--> 
+Home 13--> 
+
+Hospital--> 
+School 6--> 
+Home 3--> 
+
+School 3--> 
+Bank 4--> 
+Home 8--> 
+
+Mall 4--> 
+School 4--> 
+Home 7--> 
+
+Hospital--> 
+School 2--> 
+Home 10--> 
+
+Mall 1--> 
+School 6--> 
+Home 14--> 
+
+Bank 4--> 
+School 3--> 
+Home 5--> 
+
+Office 5--> 
+School 4--> 
+Home 8--> 
+
+Hospital--> 
+School 4--> 
+Home 1--> 
+
+Hospital--> 
+School 4--> 
+Home 13--> 
+
+Supermarket 2--> 
+School 5--> 
+Home 10--> 
+
+School 4--> 
+Restaurant 3--> 
+Home 9--> 
+
+ID: 1088 gender: M age: 12 job: Student infection rate: 0.21999999999999997
+School 4--> 
+GovtOffice 2--> 
+Home 3--> 
+
+Hospital--> 
+School 5--> 
+Home 3--> 
+
+GovtOffice 5--> 
+School 4--> 
+Home 3--> 
+
+GovtOffice 5--> 
+School 5--> 
+Home 11--> 
+
+Police Station--> 
+School 1--> 
+Home 14--> 
+
+Office 11--> 
+School 1--> 
+Home 3--> 
+
+School 6--> 
+GovtOffice 3--> 
+Home 12--> 
+
+Gym 1--> 
+School 5--> 
+Home 3--> 
+
+School 3--> 
+Bank 2--> 
+Home 9--> 
+
+GovtOffice 1--> 
+School 1--> 
+Home 11--> 
+
+Restaurant 6--> 
+School 3--> 
+Home 13--> 
+
+Restaurant 5--> 
+School 5--> 
+Home 10--> 
+
+Airport 3--> 
+School 1--> 
+Home 6--> 
+
+Office 9--> 
+School 5--> 
+Home 8--> 
+
+ID: 1089 gender: F age: 4 job: Kid infection rate: 0.10601999999999998
+Hospital--> 
+Park--> 
+Hospital--> 
+
+School 3--> 
+Hospital--> 
+Restaurant 5--> 
+
+Restaurant 1--> 
+Hospital--> 
+Park--> 
+
+Restaurant 5--> 
+Restaurant 7--> 
+Park--> 
+
+Park--> 
+School 3--> 
+Park--> 
+
+Restaurant 4--> 
+Home 4--> 
+Home 13--> 
+
+Restaurant 6--> 
+Park--> 
+School 4--> 
+
+Home 12--> 
+School 6--> 
+School 5--> 
+
+Restaurant 3--> 
+Restaurant 6--> 
+Restaurant 4--> 
+
+Park--> 
+Park--> 
+Home 7--> 
+
+School 1--> 
+Restaurant 1--> 
+School 4--> 
+
+Hospital--> 
+School 1--> 
+Park--> 
+
+Park--> 
+Restaurant 5--> 
+School 6--> 
+
+Restaurant 1--> 
+Home 4--> 
+Home 1--> 
+
+ID: 1090 gender: M age: 5 job: Kid infection rate: 0.10449999999999998
+School 4--> 
+School 4--> 
+Park--> 
+
+Restaurant 4--> 
+Restaurant 3--> 
+Restaurant 2--> 
+
+Home 1--> 
+Park--> 
+Restaurant 6--> 
+
+Hospital--> 
+Home 8--> 
+Park--> 
+
+Restaurant 5--> 
+Hospital--> 
+Hospital--> 
+
+School 6--> 
+Hospital--> 
+Home 13--> 
+
+Restaurant 4--> 
+Hospital--> 
+School 2--> 
+
+Hospital--> 
+Hospital--> 
+School 5--> 
+
+School 1--> 
+Hospital--> 
+Home 8--> 
+
+Home 9--> 
+Park--> 
+Hospital--> 
+
+Restaurant 2--> 
+Home 5--> 
+Hospital--> 
+
+Park--> 
+School 6--> 
+Park--> 
+
+Home 11--> 
+Home 4--> 
+School 2--> 
+
+Restaurant 6--> 
+Restaurant 6--> 
+Home 12--> 
+
+ID: 1091 gender: F age: 7 job: Pupil infection rate: 0.16008
+Airport 7--> 
+School 1--> 
+Home 14--> 
+
+School 4--> 
+Bank 3--> 
+Home 8--> 
+
+School 1--> 
+Airport 5--> 
+Home 2--> 
+
+School 4--> 
+Office 7--> 
+Home 11--> 
+
+Airport 4--> 
+School 6--> 
+Home 5--> 
+
+Supermarket 2--> 
+School 6--> 
+Home 6--> 
+
+Restaurant 5--> 
+School 6--> 
+Home 13--> 
+
+School 2--> 
+Mall 6--> 
+Home 8--> 
+
+Park--> 
+School 2--> 
+Home 5--> 
+
+School 2--> 
+Restaurant 5--> 
+Home 8--> 
+
+Hospital--> 
+School 1--> 
+Home 7--> 
+
+Supermarket 3--> 
+School 5--> 
+Home 11--> 
+
+School 5--> 
+Restaurant 3--> 
+Home 10--> 
+
+School 6--> 
+Restaurant 2--> 
+Home 3--> 
+
+ID: 1092 gender: M age: 12 job: Student infection rate: 0.21951999999999997
+School 6--> 
+Police Station--> 
+Home 5--> 
+
+Police Station--> 
+School 5--> 
+Home 12--> 
+
+School 5--> 
+GovtOffice 4--> 
+Home 11--> 
+
+Hospital--> 
+School 4--> 
+Home 1--> 
+
+School 6--> 
+Bank 1--> 
+Home 9--> 
+
+School 6--> 
+Restaurant 3--> 
+Home 12--> 
+
+School 1--> 
+Supermarket 1--> 
+Home 12--> 
+
+GovtOffice 3--> 
+School 4--> 
+Home 6--> 
+
+School 6--> 
+Airport 2--> 
+Home 10--> 
+
+School 6--> 
+Bank 4--> 
+Home 13--> 
+
+Supermarket 1--> 
+School 3--> 
+Home 3--> 
+
+School 4--> 
+Supermarket 1--> 
+Home 3--> 
+
+School 6--> 
+Restaurant 2--> 
+Home 12--> 
+
+Gym 4--> 
+School 6--> 
+Home 7--> 
+
+ID: 1093 gender: F age: 13 job: Student infection rate: 0.22343999999999997
+School 4--> 
+Police Station--> 
+Home 12--> 
+
+School 2--> 
+Office 1--> 
+Home 1--> 
+
+Supermarket 4--> 
+School 3--> 
+Home 9--> 
+
+GovtOffice 6--> 
+School 2--> 
+Home 8--> 
+
+School 4--> 
+Police Station--> 
+Home 14--> 
+
+Hospital--> 
+School 2--> 
+Home 7--> 
+
+Hospital--> 
+School 6--> 
+Home 7--> 
+
+Park--> 
+School 3--> 
+Home 8--> 
+
+Gym 4--> 
+School 1--> 
+Home 7--> 
+
+Restaurant 6--> 
+School 2--> 
+Home 9--> 
+
+School 5--> 
+Park--> 
+Home 10--> 
+
+School 1--> 
+Mall 1--> 
+Home 14--> 
+
+School 3--> 
+Police Station--> 
+Home 1--> 
+
+Mall 5--> 
+School 2--> 
+Home 3--> 
+
+ID: 1094 gender: F age: 11 job: Pupil infection rate: 0.15232000000000004
+School 2--> 
+Supermarket 7--> 
+Home 13--> 
+
+School 6--> 
+Hospital--> 
+Home 6--> 
+
+School 2--> 
+Bank 2--> 
+Home 2--> 
+
+Airport 5--> 
+School 6--> 
+Home 1--> 
+
+Mall 4--> 
+School 5--> 
+Home 5--> 
+
+School 4--> 
+Park--> 
+Home 11--> 
+
+School 5--> 
+Park--> 
+Home 2--> 
+
+School 4--> 
+Mall 5--> 
+Home 11--> 
+
+School 3--> 
+Office 8--> 
+Home 1--> 
+
+School 1--> 
+Airport 2--> 
+Home 12--> 
+
+Airport 4--> 
+School 6--> 
+Home 3--> 
+
+School 4--> 
+Hospital--> 
+Home 6--> 
+
+Park--> 
+School 4--> 
+Home 7--> 
+
+School 2--> 
+Restaurant 7--> 
+Home 13--> 
+
+ID: 1095 gender: F age: 14 job: Student infection rate: 0.22623999999999997
+School 2--> 
+Airport 8--> 
+Home 13--> 
+
+Hospital--> 
+School 5--> 
+Home 11--> 
+
+GovtOffice 4--> 
+School 5--> 
+Home 14--> 
+
+Hospital--> 
+School 3--> 
+Home 6--> 
+
+School 1--> 
+Supermarket 3--> 
+Home 11--> 
+
+Park--> 
+School 5--> 
+Home 10--> 
+
+School 1--> 
+Office 6--> 
+Home 7--> 
+
+School 5--> 
+Hospital--> 
+Home 14--> 
+
+Restaurant 4--> 
+School 3--> 
+Home 9--> 
+
+Airport 1--> 
+School 5--> 
+Home 1--> 
+
+Restaurant 1--> 
+School 4--> 
+Home 8--> 
+
+School 6--> 
+Police Station--> 
+Home 11--> 
+
+School 3--> 
+Mall 3--> 
+Home 4--> 
+
+School 3--> 
+Restaurant 5--> 
+Home 6--> 
+
+ID: 1096 gender: F age: 4 job: Kid infection rate: 0.11445999999999996
+Home 3--> 
+Hospital--> 
+Restaurant 7--> 
+
+Restaurant 5--> 
+Restaurant 4--> 
+Hospital--> 
+
+School 5--> 
+Hospital--> 
+School 1--> 
+
+School 5--> 
+Park--> 
+Home 2--> 
+
+School 2--> 
+Hospital--> 
+Home 5--> 
+
+School 3--> 
+Restaurant 2--> 
+Restaurant 7--> 
+
+Restaurant 5--> 
+Restaurant 4--> 
+Park--> 
+
+Home 7--> 
+Park--> 
+Hospital--> 
+
+Park--> 
+Park--> 
+Restaurant 7--> 
+
+Restaurant 4--> 
+School 5--> 
+Hospital--> 
+
+Park--> 
+Home 5--> 
+Hospital--> 
+
+Restaurant 2--> 
+Park--> 
+Hospital--> 
+
+Home 13--> 
+Home 9--> 
+Restaurant 4--> 
+
+Home 2--> 
+Park--> 
+School 4--> 
+
+ID: 1097 gender: F age: 15 job: Student infection rate: 0.23835999999999993
+School 4--> 
+Office 8--> 
+Home 9--> 
+
+School 4--> 
+Airport 8--> 
+Home 1--> 
+
+Hospital--> 
+School 1--> 
+Home 8--> 
+
+Police Station--> 
+School 1--> 
+Home 7--> 
+
+School 5--> 
+Mall 6--> 
+Home 2--> 
+
+Hospital--> 
+School 1--> 
+Home 13--> 
+
+School 1--> 
+Supermarket 6--> 
+Home 2--> 
+
+Mall 4--> 
+School 1--> 
+Home 11--> 
+
+School 3--> 
+Restaurant 1--> 
+Home 10--> 
+
+School 1--> 
+Hospital--> 
+Home 3--> 
+
+Supermarket 5--> 
+School 4--> 
+Home 12--> 
+
+School 5--> 
+Office 7--> 
+Home 14--> 
+
+School 3--> 
+Office 8--> 
+Home 13--> 
+
+Supermarket 2--> 
+School 5--> 
+Home 1--> 
+
+ID: 1098 gender: F age: 2 job: Kid infection rate: 0.10889999999999998
+Park--> 
+Park--> 
+Park--> 
+
+Park--> 
+School 4--> 
+Home 4--> 
+
+Hospital--> 
+Hospital--> 
+School 1--> 
+
+Restaurant 2--> 
+Hospital--> 
+Restaurant 3--> 
+
+Home 7--> 
+Park--> 
+Hospital--> 
+
+School 6--> 
+Restaurant 6--> 
+Home 12--> 
+
+Home 3--> 
+School 1--> 
+Park--> 
+
+Park--> 
+Restaurant 1--> 
+Home 6--> 
+
+Home 7--> 
+Home 5--> 
+Hospital--> 
+
+Restaurant 5--> 
+School 5--> 
+Park--> 
+
+Park--> 
+Hospital--> 
+Home 4--> 
+
+School 2--> 
+Park--> 
+School 5--> 
+
+Hospital--> 
+Restaurant 4--> 
+Home 10--> 
+
+School 1--> 
+School 5--> 
+Restaurant 3--> 
+
+ID: 1099 gender: F age: 6 job: Pupil infection rate: 0.16992000000000002
+Airport 3--> 
+School 1--> 
+Home 2--> 
+
+School 5--> 
+Restaurant 4--> 
+Home 10--> 
+
+School 6--> 
+Mall 6--> 
+Home 12--> 
+
+Supermarket 5--> 
+School 3--> 
+Home 11--> 
+
+School 1--> 
+Airport 1--> 
+Home 11--> 
+
+Bank 2--> 
+School 1--> 
+Home 3--> 
+
+School 5--> 
+Mall 5--> 
+Home 9--> 
+
+School 4--> 
+Bank 4--> 
+Home 12--> 
+
+School 6--> 
+Office 2--> 
+Home 6--> 
+
+Supermarket 4--> 
+School 1--> 
+Home 7--> 
+
+Bank 3--> 
+School 4--> 
+Home 14--> 
+
+Restaurant 5--> 
+School 5--> 
+Home 5--> 
+
+School 3--> 
+Office 4--> 
+Home 3--> 
+
+Park--> 
+School 2--> 
+Home 1--> 
+
+ID: 1100 gender: F age: 0 job: Kid infection rate: 0.10449999999999998
+Hospital--> 
+Hospital--> 
+Home 4--> 
+
+Restaurant 4--> 
+Park--> 
+Home 8--> 
+
+Restaurant 3--> 
+School 5--> 
+School 2--> 
+
+Home 13--> 
+Restaurant 2--> 
+School 4--> 
+
+Home 9--> 
+Hospital--> 
+Home 1--> 
+
+Home 2--> 
+School 6--> 
+Home 14--> 
+
+Restaurant 4--> 
+Hospital--> 
+School 4--> 
+
+School 6--> 
+Park--> 
+Restaurant 4--> 
+
+Park--> 
+School 4--> 
+School 3--> 
+
+Hospital--> 
+Hospital--> 
+School 6--> 
+
+Restaurant 7--> 
+School 1--> 
+Home 8--> 
+
+Park--> 
+Park--> 
+School 3--> 
+
+Restaurant 3--> 
+Park--> 
+Restaurant 1--> 
+
+School 4--> 
+School 5--> 
+Restaurant 6--> 
+
+ID: 1101 gender: F age: 11 job: Pupil infection rate: 0.15620000000000003
+School 5--> 
+Restaurant 5--> 
+Home 2--> 
+
+School 4--> 
+Mall 4--> 
+Home 5--> 
+
+School 5--> 
+Supermarket 4--> 
+Home 11--> 
+
+School 1--> 
+Supermarket 7--> 
+Home 14--> 
+
+School 1--> 
+Office 3--> 
+Home 12--> 
+
+School 3--> 
+Restaurant 2--> 
+Home 9--> 
+
+Restaurant 1--> 
+School 1--> 
+Home 6--> 
+
+School 5--> 
+Mall 6--> 
+Home 6--> 
+
+School 3--> 
+Mall 6--> 
+Home 12--> 
+
+School 5--> 
+Restaurant 7--> 
+Home 9--> 
+
+School 4--> 
+Mall 4--> 
+Home 1--> 
+
+School 5--> 
+Airport 3--> 
+Home 14--> 
+
+School 4--> 
+Office 10--> 
+Home 2--> 
+
+School 5--> 
+Airport 5--> 
+Home 12--> 
+
+ID: 1102 gender: M age: 16 job: Student infection rate: 0.2134399999999999
+School 3--> 
+Mall 1--> 
+Home 1--> 
+
+School 3--> 
+GovtOffice 3--> 
+Home 14--> 
+
+Park--> 
+School 6--> 
+Home 3--> 
+
+School 1--> 
+Hospital--> 
+Home 5--> 
+
+Park--> 
+School 4--> 
+Home 1--> 
+
+Bank 4--> 
+School 1--> 
+Home 11--> 
+
+School 5--> 
+Park--> 
+Home 12--> 
+
+Police Station--> 
+School 1--> 
+Home 4--> 
+
+Hospital--> 
+School 4--> 
+Home 7--> 
+
+Bank 3--> 
+School 4--> 
+Home 12--> 
+
+School 4--> 
+Hospital--> 
+Home 4--> 
+
+School 6--> 
+Bank 4--> 
+Home 13--> 
+
+School 5--> 
+Bank 1--> 
+Home 11--> 
+
+School 1--> 
+Hospital--> 
+Home 12--> 
+
+ID: 1103 gender: M age: 6 job: Pupil infection rate: 0.15732000000000004
+School 6--> 
+Airport 5--> 
+Home 8--> 
+
+School 2--> 
+Bank 2--> 
+Home 4--> 
+
+Office 6--> 
+School 1--> 
+Home 10--> 
+
+School 1--> 
+Mall 3--> 
+Home 5--> 
+
+School 1--> 
+Supermarket 7--> 
+Home 7--> 
+
+Park--> 
+School 3--> 
+Home 7--> 
+
+Hospital--> 
+School 3--> 
+Home 13--> 
+
+Bank 2--> 
+School 1--> 
+Home 7--> 
+
+Mall 2--> 
+School 2--> 
+Home 10--> 
+
+School 5--> 
+Hospital--> 
+Home 12--> 
+
+School 2--> 
+Mall 6--> 
+Home 3--> 
+
+Office 5--> 
+School 6--> 
+Home 7--> 
+
+Office 7--> 
+School 1--> 
+Home 14--> 
+
+Office 10--> 
+School 3--> 
+Home 4--> 
+
+ID: 1104 gender: F age: 6 job: Pupil infection rate: 0.16416000000000003
+School 3--> 
+Mall 2--> 
+Home 13--> 
+
+Bank 2--> 
+School 4--> 
+Home 8--> 
+
+Restaurant 4--> 
+School 2--> 
+Home 5--> 
+
+Restaurant 7--> 
+School 5--> 
+Home 14--> 
+
+Bank 1--> 
+School 1--> 
+Home 9--> 
+
+Hospital--> 
+School 1--> 
+Home 10--> 
+
+Supermarket 5--> 
+School 3--> 
+Home 12--> 
+
+Mall 1--> 
+School 2--> 
+Home 3--> 
+
+School 6--> 
+Mall 2--> 
+Home 10--> 
+
+School 2--> 
+Bank 2--> 
+Home 1--> 
+
+Hospital--> 
+School 6--> 
+Home 2--> 
+
+Airport 1--> 
+School 6--> 
+Home 4--> 
+
+School 5--> 
+Office 11--> 
+Home 3--> 
+
+School 3--> 
+Mall 2--> 
+Home 2--> 
+
+ID: 1105 gender: F age: 11 job: Pupil infection rate: 0.15620000000000003
+School 4--> 
+Restaurant 4--> 
+Home 6--> 
+
+School 3--> 
+Hospital--> 
+Home 5--> 
+
+Bank 1--> 
+School 1--> 
+Home 5--> 
+
+Mall 5--> 
+School 3--> 
+Home 12--> 
+
+Hospital--> 
+School 1--> 
+Home 11--> 
+
+School 4--> 
+Park--> 
+Home 13--> 
+
+School 4--> 
+Mall 1--> 
+Home 8--> 
+
+Office 6--> 
+School 3--> 
+Home 6--> 
+
+Airport 2--> 
+School 5--> 
+Home 3--> 
+
+Office 10--> 
+School 5--> 
+Home 5--> 
+
+Restaurant 1--> 
+School 2--> 
+Home 13--> 
+
+Airport 3--> 
+School 6--> 
+Home 9--> 
+
+Office 3--> 
+School 6--> 
+Home 6--> 
+
+School 1--> 
+Airport 5--> 
+Home 1--> 
+
+ID: 1106 gender: M age: 2 job: Kid infection rate: 0.11109999999999999
+School 2--> 
+Hospital--> 
+Park--> 
+
+Restaurant 5--> 
+Hospital--> 
+Hospital--> 
+
+School 5--> 
+Park--> 
+Restaurant 4--> 
+
+Hospital--> 
+School 1--> 
+Restaurant 5--> 
+
+Hospital--> 
+School 4--> 
+Hospital--> 
+
+Restaurant 6--> 
+Home 4--> 
+Home 6--> 
+
+Park--> 
+Restaurant 1--> 
+Park--> 
+
+Restaurant 7--> 
+Restaurant 6--> 
+School 3--> 
+
+School 1--> 
+Park--> 
+Restaurant 6--> 
+
+Hospital--> 
+School 3--> 
+School 6--> 
+
+School 6--> 
+School 3--> 
+Hospital--> 
+
+Hospital--> 
+Restaurant 6--> 
+Home 11--> 
+
+Park--> 
+Hospital--> 
+School 1--> 
+
+Restaurant 1--> 
+Park--> 
+Park--> 
+
+ID: 1107 gender: F age: 14 job: Student infection rate: 0.22115999999999997
+School 5--> 
+Restaurant 7--> 
+Home 4--> 
+
+School 2--> 
+Office 2--> 
+Home 10--> 
+
+School 6--> 
+GovtOffice 5--> 
+Home 7--> 
+
+School 3--> 
+Park--> 
+Home 2--> 
+
+School 1--> 
+Supermarket 6--> 
+Home 8--> 
+
+School 3--> 
+Hospital--> 
+Home 7--> 
+
+School 4--> 
+Mall 6--> 
+Home 9--> 
+
+School 3--> 
+Bank 4--> 
+Home 14--> 
+
+Supermarket 3--> 
+School 4--> 
+Home 13--> 
+
+School 2--> 
+Restaurant 4--> 
+Home 2--> 
+
+Supermarket 4--> 
+School 4--> 
+Home 7--> 
+
+Police Station--> 
+School 2--> 
+Home 4--> 
+
+Supermarket 1--> 
+School 1--> 
+Home 14--> 
+
+School 1--> 
+Park--> 
+Home 14--> 
+
+ID: 1108 gender: F age: 17 job: Student infection rate: 0.20607999999999996
+School 1--> 
+Mall 3--> 
+Home 12--> 
+
+Airport 6--> 
+School 5--> 
+Home 7--> 
+
+School 5--> 
+Park--> 
+Home 5--> 
+
+School 3--> 
+Bank 4--> 
+Home 6--> 
+
+Police Station--> 
+School 4--> 
+Home 11--> 
+
+Supermarket 1--> 
+School 4--> 
+Home 13--> 
+
+School 6--> 
+Supermarket 2--> 
+Home 13--> 
+
+School 3--> 
+Restaurant 6--> 
+Home 5--> 
+
+Police Station--> 
+School 4--> 
+Home 13--> 
+
+School 5--> 
+Airport 7--> 
+Home 8--> 
+
+Hospital--> 
+School 5--> 
+Home 4--> 
+
+Hospital--> 
+School 5--> 
+Home 6--> 
+
+Supermarket 7--> 
+School 3--> 
+Home 3--> 
+
+Hospital--> 
+School 2--> 
+Home 4--> 
+
+ID: 1109 gender: F age: 9 job: Pupil infection rate: 0.16756000000000001
+Park--> 
+School 5--> 
+Home 7--> 
+
+School 1--> 
+Bank 1--> 
+Home 4--> 
+
+School 4--> 
+Mall 2--> 
+Home 3--> 
+
+Bank 2--> 
+School 2--> 
+Home 2--> 
+
+Supermarket 7--> 
+School 3--> 
+Home 11--> 
+
+Hospital--> 
+School 4--> 
+Home 13--> 
+
+Restaurant 3--> 
+School 3--> 
+Home 12--> 
+
+Airport 3--> 
+School 1--> 
+Home 6--> 
+
+Park--> 
+School 6--> 
+Home 6--> 
+
+School 1--> 
+Mall 1--> 
+Home 10--> 
+
+School 6--> 
+Restaurant 5--> 
+Home 11--> 
+
+Park--> 
+School 6--> 
+Home 7--> 
+
+Airport 2--> 
+School 3--> 
+Home 11--> 
+
+Restaurant 7--> 
+School 6--> 
+Home 14--> 
+
+ID: 1110 gender: F age: 4 job: Kid infection rate: 0.11311999999999998
+School 3--> 
+Park--> 
+Hospital--> 
+
+Park--> 
+Hospital--> 
+School 4--> 
+
+Restaurant 3--> 
+Restaurant 3--> 
+Hospital--> 
+
+Restaurant 5--> 
+School 6--> 
+Park--> 
+
+Home 2--> 
+Hospital--> 
+School 5--> 
+
+Restaurant 4--> 
+School 4--> 
+School 4--> 
+
+Park--> 
+Park--> 
+Park--> 
+
+Restaurant 3--> 
+Park--> 
+School 6--> 
+
+Hospital--> 
+Park--> 
+Home 3--> 
+
+Home 11--> 
+Hospital--> 
+Park--> 
+
+Hospital--> 
+Hospital--> 
+Hospital--> 
+
+Park--> 
+Park--> 
+Home 10--> 
+
+Hospital--> 
+Hospital--> 
+Park--> 
+
+Park--> 
+School 5--> 
+Restaurant 3--> 
+
+ID: 1111 gender: F age: 14 job: Student infection rate: 0.23599999999999993
+School 3--> 
+Mall 3--> 
+Home 2--> 
+
+Office 4--> 
+School 4--> 
+Home 3--> 
+
+Office 9--> 
+School 3--> 
+Home 6--> 
+
+School 6--> 
+Supermarket 2--> 
+Home 7--> 
+
+School 1--> 
+Police Station--> 
+Home 13--> 
+
+Office 11--> 
+School 1--> 
+Home 4--> 
+
+Office 3--> 
+School 1--> 
+Home 12--> 
+
+School 2--> 
+Restaurant 7--> 
+Home 14--> 
+
+Mall 3--> 
+School 3--> 
+Home 11--> 
+
+School 5--> 
+Mall 6--> 
+Home 3--> 
+
+School 5--> 
+Office 5--> 
+Home 9--> 
+
+Bank 1--> 
+School 3--> 
+Home 7--> 
+
+Gym 3--> 
+School 1--> 
+Home 2--> 
+
+Park--> 
+School 4--> 
+Home 3--> 
+
+ID: 1112 gender: F age: 6 job: Pupil infection rate: 0.16704000000000002
+School 5--> 
+Mall 1--> 
+Home 2--> 
+
+School 2--> 
+Supermarket 4--> 
+Home 13--> 
+
+Supermarket 3--> 
+School 1--> 
+Home 14--> 
+
+School 6--> 
+Airport 5--> 
+Home 1--> 
+
+School 6--> 
+Mall 3--> 
+Home 10--> 
+
+School 1--> 
+Park--> 
+Home 11--> 
+
+School 2--> 
+Mall 5--> 
+Home 7--> 
+
+Hospital--> 
+School 6--> 
+Home 12--> 
+
+School 4--> 
+Hospital--> 
+Home 5--> 
+
+School 3--> 
+Bank 2--> 
+Home 7--> 
+
+Park--> 
+School 6--> 
+Home 12--> 
+
+Hospital--> 
+School 3--> 
+Home 7--> 
+
+Hospital--> 
+School 1--> 
+Home 3--> 
+
+Park--> 
+School 3--> 
+Home 5--> 
+
+ID: 1113 gender: M age: 16 job: Student infection rate: 0.21503999999999995
+GovtOffice 1--> 
+School 1--> 
+Home 11--> 
+
+School 6--> 
+Hospital--> 
+Home 2--> 
+
+School 4--> 
+Hospital--> 
+Home 7--> 
+
+Hospital--> 
+School 5--> 
+Home 10--> 
+
+Supermarket 5--> 
+School 2--> 
+Home 13--> 
+
+School 3--> 
+Police Station--> 
+Home 10--> 
+
+Bank 1--> 
+School 1--> 
+Home 7--> 
+
+Park--> 
+School 4--> 
+Home 8--> 
+
+Restaurant 2--> 
+School 4--> 
+Home 13--> 
+
+School 6--> 
+Supermarket 2--> 
+Home 8--> 
+
+Restaurant 4--> 
+School 2--> 
+Home 9--> 
+
+School 4--> 
+Bank 3--> 
+Home 2--> 
+
+School 2--> 
+Supermarket 1--> 
+Home 14--> 
+
+Bank 1--> 
+School 3--> 
+Home 4--> 
+
+ID: 1114 gender: F age: 1 job: Kid infection rate: 0.11057999999999998
+Restaurant 4--> 
+School 5--> 
+Park--> 
+
+Park--> 
+School 6--> 
+Park--> 
+
+Park--> 
+School 1--> 
+Home 14--> 
+
+Restaurant 4--> 
+Park--> 
+Home 6--> 
+
+School 5--> 
+Restaurant 2--> 
+Restaurant 5--> 
+
+Home 8--> 
+School 4--> 
+Restaurant 6--> 
+
+Hospital--> 
+Hospital--> 
+School 2--> 
+
+Home 1--> 
+Hospital--> 
+Hospital--> 
+
+Home 9--> 
+Park--> 
+Park--> 
+
+Hospital--> 
+Park--> 
+Hospital--> 
+
+School 4--> 
+Park--> 
+School 1--> 
+
+Park--> 
+Restaurant 6--> 
+School 5--> 
+
+Restaurant 2--> 
+Park--> 
+School 5--> 
+
+Park--> 
+Hospital--> 
+School 1--> 
+
+ID: 1115 gender: F age: 13 job: Student infection rate: 0.23199999999999993
+Hospital--> 
+School 6--> 
+Home 11--> 
+
+School 4--> 
+Restaurant 5--> 
+Home 9--> 
+
+Mall 5--> 
+School 4--> 
+Home 6--> 
+
+School 1--> 
+Airport 3--> 
+Home 12--> 
+
+GovtOffice 1--> 
+School 3--> 
+Home 3--> 
+
+School 5--> 
+Restaurant 2--> 
+Home 13--> 
+
+School 3--> 
+Mall 2--> 
+Home 2--> 
+
+Police Station--> 
+School 4--> 
+Home 14--> 
+
+GovtOffice 2--> 
+School 2--> 
+Home 7--> 
+
+School 1--> 
+Police Station--> 
+Home 13--> 
+
+Supermarket 4--> 
+School 5--> 
+Home 14--> 
+
+Mall 3--> 
+School 2--> 
+Home 12--> 
+
+School 6--> 
+Bank 1--> 
+Home 6--> 
+
+Mall 1--> 
+School 3--> 
+Home 6--> 
+
+ID: 1116 gender: F age: 11 job: Pupil infection rate: 0.16188000000000002
+School 2--> 
+Restaurant 1--> 
+Home 9--> 
+
+Restaurant 3--> 
+School 2--> 
+Home 5--> 
+
+School 6--> 
+Mall 1--> 
+Home 5--> 
+
+Office 7--> 
+School 6--> 
+Home 10--> 
+
+School 5--> 
+Bank 3--> 
+Home 4--> 
+
+Airport 4--> 
+School 6--> 
+Home 12--> 
+
+School 2--> 
+Supermarket 1--> 
+Home 10--> 
+
+Restaurant 4--> 
+School 3--> 
+Home 7--> 
+
+School 5--> 
+Airport 4--> 
+Home 5--> 
+
+Mall 6--> 
+School 5--> 
+Home 13--> 
+
+Airport 5--> 
+School 2--> 
+Home 12--> 
+
+Supermarket 1--> 
+School 6--> 
+Home 12--> 
+
+Restaurant 7--> 
+School 3--> 
+Home 4--> 
+
+Supermarket 7--> 
+School 6--> 
+Home 7--> 
+
+ID: 1117 gender: F age: 7 job: Pupil infection rate: 0.16188000000000002
+School 4--> 
+Bank 3--> 
+Home 9--> 
+
+School 1--> 
+Supermarket 7--> 
+Home 2--> 
+
+Mall 4--> 
+School 1--> 
+Home 9--> 
+
+School 2--> 
+Bank 3--> 
+Home 5--> 
+
+School 6--> 
+Bank 1--> 
+Home 11--> 
+
+Mall 6--> 
+School 3--> 
+Home 11--> 
+
+School 5--> 
+Park--> 
+Home 5--> 
+
+Office 2--> 
+School 6--> 
+Home 6--> 
+
+Restaurant 6--> 
+School 5--> 
+Home 4--> 
+
+School 5--> 
+Restaurant 2--> 
+Home 6--> 
+
+School 4--> 
+Mall 5--> 
+Home 11--> 
+
+School 1--> 
+Airport 8--> 
+Home 2--> 
+
+School 6--> 
+Hospital--> 
+Home 6--> 
+
+Hospital--> 
+School 2--> 
+Home 11--> 
+
+ID: 1118 gender: M age: 3 job: Kid infection rate: 0.10229999999999997
+Restaurant 4--> 
+Home 9--> 
+Hospital--> 
+
+School 2--> 
+Park--> 
+Home 7--> 
+
+Park--> 
+School 1--> 
+Restaurant 6--> 
+
+Hospital--> 
+Hospital--> 
+Park--> 
+
+Home 1--> 
+Restaurant 5--> 
+Hospital--> 
+
+Park--> 
+Restaurant 2--> 
+Home 7--> 
+
+Restaurant 6--> 
+Hospital--> 
+Home 4--> 
+
+Park--> 
+School 6--> 
+Home 6--> 
+
+Hospital--> 
+Park--> 
+Park--> 
+
+Restaurant 7--> 
+Hospital--> 
+Hospital--> 
+
+Home 11--> 
+Home 9--> 
+Park--> 
+
+Home 8--> 
+Restaurant 4--> 
+Restaurant 7--> 
+
+Park--> 
+Park--> 
+Park--> 
+
+Restaurant 4--> 
+Restaurant 6--> 
+Restaurant 4--> 
+
+ID: 1119 gender: F age: 0 job: Kid infection rate: 0.11917999999999997
+Home 13--> 
+Hospital--> 
+Park--> 
+
+Hospital--> 
+School 3--> 
+Restaurant 3--> 
+
+Park--> 
+Park--> 
+School 5--> 
+
+Hospital--> 
+Home 5--> 
+School 2--> 
+
+Home 14--> 
+School 4--> 
+Hospital--> 
+
+Home 10--> 
+Restaurant 6--> 
+Home 5--> 
+
+School 4--> 
+Hospital--> 
+Hospital--> 
+
+Hospital--> 
+School 6--> 
+Restaurant 1--> 
+
+Hospital--> 
+Park--> 
+Park--> 
+
+School 4--> 
+School 5--> 
+Restaurant 7--> 
+
+Park--> 
+School 6--> 
+Restaurant 7--> 
+
+Home 1--> 
+Restaurant 1--> 
+Park--> 
+
+Hospital--> 
+Home 5--> 
+Home 12--> 
+
+School 2--> 
+Park-
